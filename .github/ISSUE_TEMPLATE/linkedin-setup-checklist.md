@@ -11,6 +11,7 @@ assignees: ''
 I want to have a professional presence and have a space to network and connect with others in order to achieve my career goals.
 
 ### Action Items
+Check off each of the items as you complete it, adding the content of what you wrote under the item.
 
 #### Top
 
