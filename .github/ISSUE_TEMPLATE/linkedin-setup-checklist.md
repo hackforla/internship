@@ -44,8 +44,9 @@ Check off each of the items as you complete it, adding the content of what you w
 - [ ] Posts
 
 #### Experience
-- [ ] Make a copy of the "Hack for LA resume content tool"
+- [ ] Make a copy of the "Hack for LA resume content too with Activity Log"
   - [ ]  Add a link for the copy here so that we can help you (set to anyone can view): 
+  - [ ] Fill out Activity Log
 
 #### Education
 - [ ] List of schools attended and any relevant classes or clubs or honors
