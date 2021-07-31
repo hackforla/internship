@@ -16,7 +16,7 @@ Check off each of the items as you complete it, adding the content of what you w
 #### Signup for LinkedIn
 - [ ] I have a LinkedIn account.  Here is the URL: 
 - [ ] I do not have a LinkedIn account.
-   - [ ] If you don't already have a LinkedIn account, signup now.
+   - [ ] If you don't already have a LinkedIn account, signup now and provide the URL here: 
 
 #### Top
 
@@ -28,7 +28,7 @@ Check off each of the items as you complete it, adding the content of what you w
 - [ ] Email
 
 #### Customize your URL
-- [ ] Make sure you get rid of the numbers, generally firstnamelastname, lastname-firstname firstnameMiddleInitialLastname, etc.
+- [ ] Make sure you get rid of the numbers, generally firstnamelastname, lastname-firstname firstnameMiddleInitialLastname, etc. and provide the revised URL here if different than above: 
 
 #### About
 
