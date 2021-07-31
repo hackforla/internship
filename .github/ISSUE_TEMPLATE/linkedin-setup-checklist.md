@@ -69,6 +69,6 @@ Check off each of the items as you complete it, adding the content of what you w
 ### Resources/Instructions
 
 [Linkedin](https://www.linkedin.com)
-[Linkedin workshop deck](https://docs.google.com/presentation/d/1qEnWq4rPxZm0ZtEsa1T0HoNpjuLxvJU2SlweiLYugwo/edit#slide=id.ge117c703c6_0_35)
+[Linkedin workshop slides](https://docs.google.com/presentation/d/1qEnWq4rPxZm0ZtEsa1T0HoNpjuLxvJU2SlweiLYugwo/edit#slide=id.ge117c703c6_0_35)
 [Hack for LA resume content tool  with Activity Log](https://docs.google.com/spreadsheets/d/164RGPJK3b5IdmWhici-d8Qss1_PvGPL5gwsEHujxTfQ/edit#gid=1559833848)
 [Sakari's Activity Log example - a developer](https://docs.google.com/spreadsheets/d/1SMNhL34zfCsIWOnHZ2hXjXLL7ZfX54LXSglkGZb-Xms/edit#gid=0)
