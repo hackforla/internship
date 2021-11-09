@@ -2,7 +2,7 @@
 name: LinkedIn Setup Checklist
 about: An issue where all Interns can track their linkedin progress
 title: 'LinkedIn Setup Checklist: [INSERT YOUR NAME HERE]'
-labels: Linkedin profile
+labels: ''
 assignees: ''
 
 ---
@@ -57,8 +57,16 @@ Check off each of the items as you complete it, adding the content of what you w
 
 #### Recommendations
 - [ ] Ask for recommendations
+   - [ ] Go into the Hack for LA team roster and connect with each person who did a pr review or issue completed for you
+   - [ ] Once they have accepted your linkedin request, go to their profile and endorse them for the skills that your issue required.  So if your issue was a Figma issue, then endorse them for that, etc.
+   - [ ] Then wait a few days, and write to them asking them if they would consider endorsing you for that skill and reminding them of the pr or issue (including putting a link to the item). 
+#### Note: you only NEED one endorsement per skill to make it show up when recruiters are searching for you.  But you do need at least one.
 - [ ] Review submitted recommendations
 - [ ] Accept recommendations
+
+Snapshot of current
+![image](https://user-images.githubusercontent.com/37763229/131383319-f0ea34db-bc7f-4017-a818-f3c70b3d1464.png)
+
 
 #### Accomplishments
 - [ ] Items that don't fit anywhere else (old, or outside of experience you want to list)
