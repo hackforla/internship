@@ -7,13 +7,18 @@ assignees: ''
 
 ---
 
+### Dependencies
+ANY ISSUE NUMBERS THAT ARE BLOCKERS OR OTHER REASONS WHY THIS WOULD LIVE IN THE ICEBOX
+
 ### Overview
-REPLACE THIS TEXT -Text here that clearly states the purpose of this issue in 2 sentences or less.
+WE NEED TO DO X FOR Y REASON
 
 ### Action Items
-REPLACE THIS TEXT -If this is the beginning of the task this is most likely something to be researched and documented.
+A STEP BY STEP LIST OF ALL THE TASK ITEMS THAT YOU CAN THINK OF NOW EXAMPLES INCLUDE: Research, reporting, etc.
 
-REPLACE THIS TEXT -If the issue has already been researched, and the course of action is clear, this will describe the steps.  However, if the steps can be divided into tasks for more than one person, we recommend dividing it up into separate issues, or assigning it as a pair programming task.
+- [ ] Update relevant WIKI page (See resources)
 
 ### Resources/Instructions
 REPLACE THIS TEXT -If there is a website which has documentation that helps with this issue provide the link(s) here.
+
+- Find WIKI page for your role [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team)
