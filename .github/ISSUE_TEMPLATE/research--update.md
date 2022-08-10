@@ -32,7 +32,6 @@ We need to review and update the wiki page for [Research Plan number and title] 
 - [ ] Review/Update Links to Related Wiki Pages
 
 ### Resources/Instructions
-
 - [RP__ Wiki Page]
 - [Example Wiki Research Plan Page: RP6](https://github.com/hackforla/internship/wiki/Research-Plan-6:-Intern-Intake-Interviews)
 - Don't link GitHub issues, instead make sure that the wiki page has a link to all the issues using the label (e.g., `Research: RP006` label)

@@ -41,7 +41,8 @@ We need to create a wiki structure and task list to support our [name of researc
 -  [ ] create issues using templates from the list of template issues
 
 ### Resources/Instructions
-[Label page](https://github.com/hackforla/internship/labels?q=RP)
-[WIKI template](https://github.com/hackforla/internship/wiki/research-wiki-template)
-[Output Overview wiki page](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
-[Research list of template issues](https://github.com/hackforla/internship/wiki/UX-Research-Guides-Templates#template-issues)
+- [Label page](https://github.com/hackforla/internship/labels?q=RP)
+- [Click to create new page on wiki](https://github.com/hackforla/internship/wiki/_new)
+- [WIKI template](https://github.com/hackforla/internship/wiki/research-wiki-template)
+- [Output Overview wiki page](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
+- Research list of template issues](https://github.com/hackforla/internship/wiki/UX-Research-Guides-Templates#template-issues)
