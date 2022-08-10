@@ -1,7 +1,7 @@
 ---
 name: 'Research: Setup Structure'
 about: The prework before a new research plan
-title: 'TWE: Research Plan for [name of research]'
+title: 'TWE: Research Structure for [name of research]'
 labels: 'epic, feature: research, milestone: missing, p-feature: wiki, role: UI/UX
   research, size: 1pt'
 assignees: ''
