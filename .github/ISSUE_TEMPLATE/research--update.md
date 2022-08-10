@@ -11,7 +11,6 @@ assignees: ''
 We need to review and update the wiki page for [Research Plan number and title] so that future HfLA volunteers can replicate our processes.
 
 ### Action Items
-
 - [ ] Review/Update Research Date
 - [ ] Review/Update Summary of Research
     - [ ] Update Research Question
@@ -34,6 +33,7 @@ We need to review and update the wiki page for [Research Plan number and title] 
 ### Resources/Instructions
 - [RP__ Wiki Page]
 - [Example Wiki Research Plan Page: RP6](https://github.com/hackforla/internship/wiki/Research-Plan-6:-Intern-Intake-Interviews)
+- [Google Drive, Research Folder](https://drive.google.com/drive/folders/1LLHYcQCRmpC3DX_ZMj4BXNCmb_XliUXd?usp=sharing) - you can find research  plans by type or by number/name
 - Don't link GitHub issues, instead make sure that the wiki page has a link to all the issues using the label (e.g., `Research: RP006` label)
 - If a particular Research Plan was not conducted during the Internship 2022, note why under "Current Status".
 - Tips for identifying mislabeled GitHub issues
