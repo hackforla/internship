@@ -1,7 +1,7 @@
 ---
 name: 'Research: Roadmap'
 about: The start of a new roadmap
-title: 'TWE: Research Plan for [name of roadmap]'
+title: 'TWE: Research Roadmap [name of type]'
 labels: 'feature: research, feature: roadmap, milestone: missing, role: UI/UX research,
   size: 0.50pt'
 assignees: ''
