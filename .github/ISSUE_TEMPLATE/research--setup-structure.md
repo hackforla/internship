@@ -18,11 +18,12 @@ We need to create a wiki structure and task list to support our [name of researc
 - [ ] Link the roadmap and its issue for your research into the resources below
 - [ ] Create a label for your research plan, using the next number available
   - [ ] Add label to this issue and to the roadmap issue
-- [ ] Create a wiki page for it, using the template
-- [ ] Link it to Output overview page
+- [ ] Create a new wiki page for it
+- [ ] use the template to copy the structure
+- [ ] Link new wiki page to Output overview wiki page
    - [ ] Link it to the appropriate page under `Research Documents by overview type`
    - [ ] Link it under the list `Research Documents by each plan`
-- [ ] Fill out the  wiki page
+- [ ] Fill out the wiki page
 - [ ] Have review meeting with Research Lead
 - [ ] Have alignment meeting with Product for sign-off
 - [ ] Customize issues that will need to be made  (by deleting unneeded) issues from this list
