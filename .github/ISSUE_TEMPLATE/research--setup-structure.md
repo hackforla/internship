@@ -15,6 +15,7 @@ ANY ISSUE NUMBERS THAT ARE BLOCKERS OR OTHER REASONS WHY THIS WOULD LIVE IN THE 
 We need to create a wiki structure and task list to support our [name of research plan] so that we can stay organized across all team member and working times
 
 ### Action Items
+- [ ] Add the milestone: 06.01.01 Research Plan Create Wiki Pages
 - [ ] Link the roadmap and its issue for your research into the resources below
 - [ ] Create a label for your research plan, using the next number available
   - [ ] Add label to this issue and to the roadmap issue

@@ -15,8 +15,11 @@ ANY ISSUE NUMBERS THAT ARE BLOCKERS OR OTHER REASONS WHY THIS WOULD LIVE IN THE 
 We need to create a research roadmap to [describe what and why]
 
 ### Action Items
+- [ ] Add milestone: 06.01.00 Research Roadmap Create Wiki Page
 - [ ] Create a new page on the wiki for the roadmap called: `[type name] Research Overview` using the template for Research Roadmap
   - [ ] link it to the Research Output Overview wiki page
+- [ ] Change milestone: 06.01.04 Research Roadmap Document Creation
+  - [ ] Put back in Prioritized Backlog under new milestone
 - [ ] Go to the Google Drive, Research, 1. Research by Type, Folder
    - [ ] Create a new folder in the drive called [number. name of type]
 - [ ] Make a new document using the report template 
