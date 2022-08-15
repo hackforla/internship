@@ -11,6 +11,7 @@ assignees: ''
 We need to review and update the wiki page for [Research Plan number and title] so that future HfLA volunteers can replicate our processes.
 
 ### Action Items
+- [ ] Add milestone: 06.01.02 Research Audit and update wiki page
 - [ ] Review/Update Research Date
 - [ ] Review/Update Summary of Research
     - [ ] Update Research Question
