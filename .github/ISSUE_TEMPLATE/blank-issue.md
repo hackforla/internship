@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
+# Instructions for creating this issue
+The person who creates this issue should use these links to add links to the resources section and customize this issue
+- [ ] Find WIKI page for this issue by looking at role pages [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team) - then add the appropriate link to the resources section
+- [ ] Find document template that should be used [Templates & Product Branding](https://github.com/hackforla/internship/wiki/Design-Process-Overview) - then add that specific template link into the resources section
+- [ ] If no dependencies, delete dependency section
+- [ ] delete this section when all the checkboxes above are complete (i.e., the issue assignee will never see this part)
+
 ### Dependencies
 ANY ISSUE NUMBERS THAT ARE BLOCKERS OR OTHER REASONS WHY THIS WOULD LIVE IN THE ICEBOX
 
@@ -20,5 +27,3 @@ A STEP BY STEP LIST OF ALL THE TASK ITEMS THAT YOU CAN THINK OF NOW EXAMPLES INC
 
 ### Resources/Instructions
 REPLACE THIS TEXT -If there is a website which has documentation that helps with this issue provide the link(s) here.
-
-- Find WIKI page for your role [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team)
