@@ -16,7 +16,6 @@ We need to create a template issue for [replace with name of template issue] so 
 - [ ] Add to the Project Board
 - [ ] Add the milestone: Project Management
 - [ ] Add a feature label specific to what the template is related to, if available.  If not clear what you should use, ask product.
-- [ ] If no dependencies, delete dependency section
 - [ ] Any place you see `[replace...]` replace both the text and the brackets with what it is asking for
 - [ ] Create a draft of new template by copying the content block below to a comment on this issue, which will be known as our Draft
 - [ ] In your draft, Fill out the top part (called front matter) with the info it needs.  See the Resources section below for definition and example.
