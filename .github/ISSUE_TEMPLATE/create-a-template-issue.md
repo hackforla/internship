@@ -14,7 +14,7 @@ The person who creates this issue should use these links to add links to the res
 - [ ] Add the milestone: Project Management
 - [ ] Add a feature label specific to what the template is related to, if available.  If not clear what you should use, ask product.
 - [ ] Find WIKI page for this issue by looking at role pages [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team) - then add the appropriate link to the resources section
-- [ ] If documents or folders (sheets, docs, presentations, dashboard, etc.) will be created, find the document template that should be used [Templates & Product Branding](https://github.com/hackforla/internship/wiki/Design-Process-Overview) - then add that specific template link into the resources section
+- [ ] If documents or folders (sheets, docs, presentations, dashboard, etc.) will be created, find the document template that should be used [Templates & Product Branding](https://github.com/hackforla/internship/wiki/Design-Process-Overview) - then add that specific template link under the ` ### Resources`  section inside the template block
 - [ ] If no dependencies, delete dependency section
 - [ ] Any place you see `[replace...]` replace both the text and the brackets with what it is asking for
 - [ ] Delete this section when all the checkboxes above are complete (i.e., the issue assignee will never see this part)
