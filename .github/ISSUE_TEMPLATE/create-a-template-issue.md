@@ -28,7 +28,7 @@ We need to create a template issue for [replace with name of template issue] so 
 - [ ] If documents or folders (sheets, docs, presentations, dashboard, etc.) will be created, find the document template that should be used by checking the WIKI Templates by role pages.  
   - [ ] if there is a template
      - [ ] Add a link to the template into the ` ### Resources`  section of your draft
-  - [ ] if there is not template yet
+  - [ ] if there is no template yet
      - [ ] Go to [Templates & Product Branding](https://github.com/hackforla/internship/wiki/Design-Process-Overview) - then add that specific template link under the ` ### Resources`  section (in this top comment) for yourself so that you can create a template later
     - [ ] then put a placeholder into the` ### Resources`  section of the draft `[TWE: Template: [replace with name of type]]`
 - [ ] Get sign-off by product on the draft
