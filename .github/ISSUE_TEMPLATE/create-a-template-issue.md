@@ -50,7 +50,7 @@ Draft of [replace with name of type] template issue
 ---
 name: TWE: Create Template Issue: [replace with name of template]
 about: 
-title: TWE: [action verb] [name of template]
+title: TWE: [replace with action verb] [replace with name of template]
 labels: 'feature: board / google drive / tools', 'feature: missing', 'size: missing', 'role: missing', 'milestone: missing'
 assignees: 
 ---
