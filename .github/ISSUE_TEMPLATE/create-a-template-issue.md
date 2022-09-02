@@ -13,6 +13,7 @@ assignees: ''
 We need to create a template issue for [replace with name of template issue] so that we have consistent, transparent, defined and self-supporting structure for people creating them.
 
 ### Action Items
+- [ ] Add to the Project Board
 - [ ] Add the milestone: Project Management
 - [ ] Add a feature label specific to what the template is related to, if available.  If not clear what you should use, ask product.
 - [ ] Find WIKI page for this issue by looking at role pages [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team) - then add the appropriate link to the resources section
