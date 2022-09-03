@@ -32,4 +32,4 @@ We need to create a research roadmap to [describe what and why]
 - [WIKI template for Research Roadmap](https://github.com/hackforla/internship/wiki/research-roadmap-wiki-template)
 - [Research Output Overview](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
 -  [Google Drive, Research, 1. Research by Type Folder](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5)
-- [TWE: Template: Report Template](https://docs.google.com/document/d/16GP2QU_41dOBBadLUxEurdHh3FjzbkRMKTScr66pSIQ/template/preview)
+- [TWE: Template: Research Roadmap: [TYPE]](https://docs.google.com/document/d/1_4ihjsfKFiRNEZQnlihhRMYwPaM7WoSZNauY3GTbdpI/template/preview)
