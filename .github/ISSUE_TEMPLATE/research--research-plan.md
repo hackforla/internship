@@ -17,7 +17,7 @@ We need to create a Research Plan for [NAME OF RESEARCH PLAN] so that [RESEARCH 
 
 ### Action Items
 - [ ] Update this issue to make sure it's properly categorized and easy to manage
-     - [ ] Add to the Project Board (helps with Project Management overview)
+     - [ ] Under "Projects," add to the Project Management Board (helps with Project Management overview)
      - [ ] Add the milestone: [Research Plan Creation](https://github.com/hackforla/internship/milestone/29) (helps with prioritization)
      - [ ] Add label of the correct research plan number associated with this research plan (e.g., Research: RP001) (helps you find related issues in the same workflow)
      - [ ] Edit title of issue with the correct research plan number (same as prior)
