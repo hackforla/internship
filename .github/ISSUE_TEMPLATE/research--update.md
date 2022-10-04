@@ -30,6 +30,8 @@ We need to review and update the wiki page for [Research Plan number and title] 
     - [ ] Review/update link to Presentation of Findings (if nothing to report yet, leave blank)
     - [ ] Review/update link to Action Items Spreadsheet (if nothing to report yet, leave blank)
 - [ ] Review/Update Links to Related Wiki Pages
+- [ ]  Remove label for UI/UX research role and add product role label
+- [ ]  Product reviews wiki page
 
 ### Resources/Instructions
 - [RP__ Wiki Page]
@@ -41,3 +43,4 @@ We need to review and update the wiki page for [Research Plan number and title] 
     - In the search bar, type keywords that might be related to this research plan
     - Start broad to identify keywords that might indicate the same thing. Quickly scroll through all issues to see if the language to describe this research plan was inconsistent (e.g., "intake" vs. "onboarding"). Make sure that no matter the language that the RP label is correct.
     - Look in both open and closed issues
+- [Example of Action Items Spreadsheet](https://docs.google.com/spreadsheets/d/1WGim70shHIt-6BbweDvbn-J0IdOR8JmQLYg9Rovf7bA/edit#gid=1693908723)
