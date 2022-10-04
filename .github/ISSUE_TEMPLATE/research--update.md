@@ -30,7 +30,7 @@ We need to review and update the wiki page for [Research Plan number and title] 
     - [ ] Review/update link to Presentation of Findings (if nothing to report yet, leave blank)
     - [ ] Review/update link to Action Items Spreadsheet (if nothing to report yet, leave blank)
 - [ ] Review/Update Links to Related Wiki Pages
-- [ ]  Remove label for UI/UX research role and add product role label
+- [ ]  Research lead reviews wiki page
 - [ ]  Product reviews wiki page
 
 ### Resources/Instructions
