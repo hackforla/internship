@@ -23,8 +23,12 @@ We need to create a Research Plan for [NAME OF RESEARCH PLAN] so that [RESEARCH 
      - [ ] Edit title of issue with the correct research plan number (same as prior)
      - [ ] Edit placeholders in Overview of this issue with the relevant information in square brackets. (personalizes the issue to make it easier to read). Any place you see [replace...] replace both the text and the brackets with what it is asking for (including in the front matter above but not where it says name, but not where it says title.
 - [ ] Update this issue with the relevant Resources:
-     - [ ] Go to the Research Output Overview Page (link in Resources) and find the relevant overview type wiki page. Then, change `[Wiki [TYPE] Research Overview Page]` in the Resources below with the correct wiki page of the research overview by type.
-     - [ ] Go to the Research Output Overview Page again and find the relevant wiki page for this specific research plan. Then, change the `[RP__ Wiki Page]` in the Resources below with this RP's specific wiki page.
+     - [ ] Go to the Research Output Overview Page (link in Resources)
+       - [ ] find the relevant overview type wiki page. 
+       - [ ] change `[Wiki [TYPE] Research Overview Page]` in the Resources below with the correct wiki page of the research overview by type.
+     - [ ] Go to the Research Output Overview Page again
+        - [ ] find the relevant wiki page for this specific research plan. 
+        - [ ] change the `[RP__ Wiki Page]` in the Resources below with this RP's specific wiki page.
      - [ ] Find and link the folder you are going to put your research plan in  (e.g., Research by Type>2. Intern>RP6 - Intern Intake Interviews)
         - [ ] Go to the Google Drive's Research by Type Folder (link in Resources)
         - [ ] Go into the relevant Type Folder (e.g., 1. Mentor, 2. Intern, etc.) 
@@ -54,5 +58,5 @@ We need to create a Research Plan for [NAME OF RESEARCH PLAN] so that [RESEARCH 
 - [RP__ Wiki Page]
 - [Google Drive Research by Type Folder](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5?usp=sharing)
 - [Google Drive RP__ Folder]
-- [Research Plan Template](https://docs.google.com/document/d/1SDW6n086PnSrrVSmPgQZWhlkz5_yC70vDvp7Lx7u0Wo/template/preview)
+- [TWE: Research Plan Template](https://docs.google.com/document/d/1SDW6n086PnSrrVSmPgQZWhlkz5_yC70vDvp7Lx7u0Wo/template/preview)
 - [TWE: How to Write a Research Plan](https://docs.google.com/document/d/1Cwc0w4ZPUI8989w3jU8BW2LzLK_Tl5gHdI0VxN5ej0o/edit)
