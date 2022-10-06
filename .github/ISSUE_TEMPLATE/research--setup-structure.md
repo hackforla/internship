@@ -24,7 +24,7 @@ We need to create a wiki structure and task list to support our [name of researc
 - [ ] Link new wiki page to [Output overview wiki page](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
    - [ ] Link it to the appropriate page under `Research Documents by overview type`
    - [ ] Link it under the list `Research Documents by each plan`
-- [ ] Fill out the wiki page
+- [ ] Fill out the wiki page with any links or documents that have already been created
 - [ ] Have review meeting with Research Lead
 - [ ] Have alignment meeting with Product for sign-off
 - [ ] Customize issues that will need to be made (by deleting unneeded) issues from this list
