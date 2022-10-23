@@ -1,7 +1,7 @@
 ---
 name: 'Research: Roadmap'
 about: The start of a new roadmap
-title: 'TWE: Research Roadmap [name of type]'
+title: 'TWE: Create Research Roadmap [name of type]'
 labels: 'feature: research, feature: roadmap, milestone: missing, role: UI/UX research,
   size: 0.50pt'
 assignees: ''
@@ -15,6 +15,7 @@ ANY ISSUE NUMBERS THAT ARE BLOCKERS OR OTHER REASONS WHY THIS WOULD LIVE IN THE 
 We need to create a research roadmap to [describe what and why]
 
 ### Action Items
+- [ ] Under "Projects," add to the Project Management Board
 - [ ] Add milestone: 06.01.00 Research Roadmap Create Wiki Page
 - [ ] Create a new page on the wiki for the roadmap called: `[type name] Research Overview` using the template for Research Roadmap
   - [ ] link it to the Research Output Overview wiki page
@@ -26,6 +27,8 @@ We need to create a research roadmap to [describe what and why]
   - [ ] Move your document from "My Drive" to the shared drive internship folder that you just created.
 - [ ] Name your document to be called TWE: Research Roadmap: [name of type] 
 - [ ] Update the Table of contents (page 2) when you are finished with document
+- [ ] UX Research Lead sign-off
+- [ ] Product-sign off
 
 ### Resources/Instructions
 - [Click to create new page on wiki](https://github.com/hackforla/internship/wiki/_new)
