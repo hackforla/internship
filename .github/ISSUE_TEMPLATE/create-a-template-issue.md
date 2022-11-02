@@ -32,9 +32,12 @@ We need to create a template issue for [replace with name of template issue] so 
     - [ ] put a placeholder into the` ### Resources`  section of the draft `[TWE: Template: [replace with name of type]]`
 - [ ] Get sign-off by product on the draft
 - [ ] Create the template issue on the repo
+- [ ] Add the link to related "Get started" button in the Resources section below.
 - [ ] Update the appropriate place in wiki for your template (see resources section)
 
 ### Resources/Instructions
+Getting started button link for creating new issue using the ["REPLACE with name and link of template"] template on the "New issue" tab
+
 #### WIKI Templates
 - by role pages
   - [TWE: WIKI: UX Research Guides Templates](https://github.com/hackforla/internship/wiki/UX-Research-Guides-Templates) 
