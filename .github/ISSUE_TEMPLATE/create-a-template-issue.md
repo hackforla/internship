@@ -36,7 +36,8 @@ We need to create a template issue for [replace with name of template issue] so 
 - [ ] Update the appropriate place in wiki for your template (see resources section)
 
 ### Resources/Instructions
-Getting started button link for creating new issue using the ["REPLACE with name and link of template"] template on the "New issue" tab
+~Getting started button link for creating new issue using the ["REPLACE with name and link of template"] template on the "New issue" tab~
+- [Meeting Recordings Folder](https://drive.google.com/drive/folders/1lgc0eeDXvqvqvLOgqsT8lu3EsneeH9VS?usp=share_link) -- store recordings of template testing
 
 #### WIKI Templates
 - by role pages
