@@ -1,7 +1,7 @@
 ---
 name: 'Research: Create Interview Roll Call and Session Table'
-about: We are creating a template to record future interview roll call and sessions
-  so we can keep track of the interview to be conducted consistently.
+about: Create a spreadsheet to track interview sessions, including interviewers, interviewees,
+  customized script links, and interview date and times.
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
   TYPE OF INTERVIEW] Interview Roll Call and Session Table: Create'
 labels: 'feature: research, feature: roll call / session table, milestone: missing,
