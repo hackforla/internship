@@ -1,0 +1,104 @@
+/*================================================================
+  Buttons
+  To create a button: add the base button class, a color
+  class, a size class, and (when needed) a page-specific class.
+  Index:
+  - Base class
+  - Color classes
+  - Size classes
+  - Page-specific classes
+=================================================================*/
+/*---------------------------
+  Button Base class
+  * Use on all buttons
+---------------------------*/
+
+.btn {
+  border: 0;
+  box-shadow: 0 0 8px 0 rgba($color-black, 0.2);
+  display: inline-block;
+  font-weight: map-get($font-weight, bold);
+  text-decoration: none;
+  transition: all 100ms ease-in;
+  white-space: nowrap;
+}
+
+.btn--default {
+  align-items: center;
+  display: inline-flex; 
+  justify-content: center;
+  margin: 5px 0;
+}
+
+/*---------------------------
+  Button Colors
+---------------------------*/
+
+/*   Primary Button  ---  Green   */
+
+.btn-primary {
+  background: $button-defaultcolor;
+  color: $text-color;
+
+//   &:link,
+//   &:visited {
+//     color: $color-white;
+//   }
+
+  &:hover,
+  &:active,
+  &:focus {
+    // background: darken($color-red, 10%);
+    background: $button-hovercolor;
+    color: $color-white;
+    text-decoration: none;
+  }
+} 
+  
+
+/*---------------------------
+  Button Sizes
+---------------------------*/
+
+.btn-sm {
+  height: 40px;
+  padding: 0 32px;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+.btn-md {
+  height: 60px;
+  padding: 0 50px;
+  border-radius: 60px;
+  font-size: 1.25rem;
+}
+
+.btn-lg {
+  height: 72px;
+  padding: 0 60px;
+  border-radius: 100px;
+  font-size: 1.5rem;
+
+  @media #{$bp-below-tablet} {
+    height: 60px;
+    padding: 0 50px;
+    border-radius: 60px;
+    font-size: 1.25rem;
+  }
+}
+
+/*----------------------------------------------------
+  Page-Specific Button Classes
+  * Use when special styling is needed for a button
+  on a specific page (usually placement)
+-----------------------------------------------------*/
+/*
+- Page-specific class name formatting should be:
+  btn--page-name
+  EXAMPLE: btn--wins
+- If there is more than one button in the page, formatting for each button should be:
+  btn--page-name-button-function
+  EXAMPLE: btn--home-getting-started
+- Page-specific class names should live in that specific page's .scss file.
+*/
