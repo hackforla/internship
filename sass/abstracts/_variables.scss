@@ -2,19 +2,20 @@
 // This file contains all application-wide Sass variables.
 // -----------------------------------------------------------------------------
 
+/// Colors
+$color-white: #ffffff;
+$color-black: #333333;
+$color-green: #247984;
+$color-darkgreen: #0D5761;
 /// Font family
 $text-font-stack: (
   'Roboto',  
   sans-serif
 );
+$text-color: $color-black;
 
-/// Colors
-$color-green: #247984;
-$color-darkgreen: #0D5761;
-$color-white: #ffffff;
-$color-black: #333333;
 
-$text-color: $color-white;
+$button-text-color: $color-white;
 $button-defaultcolor: $color-green;
 $button-hovercolor: $color-darkgreen;
 

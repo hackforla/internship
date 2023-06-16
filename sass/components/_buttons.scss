@@ -21,6 +21,10 @@
   text-decoration: none;
   transition: all 100ms ease-in;
   white-space: nowrap;
+  align-items: center;
+  display: inline-flex; 
+  justify-content: center;
+  margin: 5px 0;
 }
 
 .btn--default {
@@ -30,25 +34,34 @@
   margin: 5px 0;
 }
 
+
 /*---------------------------
   Button Colors
 ---------------------------*/
 
 /*   Primary Button  ---  Green   */
 
-.btn-primary {
+.btn {
   background: $button-defaultcolor;
-  color: $text-color;
+  color: $button-text-color;
+  border:4px solid transparent;
 
 //   &:link,
 //   &:visited {
 //     color: $color-white;
 //   }
-
+  &:focus, 
+  &.focus {
+    border-color: $button-hovercolor;
+    outline-color: $button-hovercolor;
+  }
+  &:disabled {
+    background: #c6c6c6;
+  }
   &:hover,
-  &:active,
-  &:focus {
-    // background: darken($color-red, 10%);
+  &:active, 
+  &.hover,
+  &.active {
     background: $button-hovercolor;
     color: $color-white;
     text-decoration: none;
