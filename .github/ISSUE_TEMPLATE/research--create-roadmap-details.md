@@ -25,7 +25,7 @@ The person who creates this issue should use these links to add links to the res
 
 ### Dependencies
 - [ ] [REPLACE WITH ROADMAP ISSUE #]
-- [ ] A research setup structure (wiki, GitHub labels, Google Drive, etc.) has been created an approved [REPLACE WITH RESEARCH STRUCTURE ISSUE # IF AVAILABLE].  Use this [URL](https://github.com/hackforla/internship/issues?q=is%3Aissue+TWE%3A+Research+Structure+for+RP) to search the issue tab for potential results
+- [ ] A research setup structure (wiki, GitHub labels, Google Drive, etc.) has been created and approved [REPLACE WITH RESEARCH STRUCTURE ISSUE # IF AVAILABLE].  Use this [URL](https://github.com/hackforla/internship/issues?q=is%3Aissue+TWE%3A+Research+Structure+for+RP) to search the issue tab for potential results
 
 ### Overview
 We need to update the details of the `[TYPE] Roadmap` for `[NAME OF RESEARCH PLAN]` so that the high level overview captures why we are doing all the research plans with this user group.
