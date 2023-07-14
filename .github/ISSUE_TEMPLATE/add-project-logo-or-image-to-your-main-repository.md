@@ -2,7 +2,8 @@
 name: Add project logo or image to your main repository
 about: Simple action that will make it possible to add project to hackforla.org website
 title: ''
-labels: enhancement
+labels: 'enhancement, feature: research, feature: roadmap, milestone: missing, role:
+  UI/UX research, size: 1pt'
 assignees: ''
 
 ---
