@@ -50,6 +50,8 @@ The person who creates this issue should use links in the section "Resources for
 ### Overview
 Create an interview roll call and session table for RP[Replace 000] so that we can keep track of who we are interviewing, when, and related links.
 
+During these tasks you will be asked to add link to the Resources/Instructions section, and that section is at the bottom of this issue (go view it now).
+
 ### Action Items
 #### Customize Resource Links
 - Customize Resource for Wiki Page Link
