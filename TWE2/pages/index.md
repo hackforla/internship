@@ -4,11 +4,11 @@ title: Material Jekyll Theme
 permalink: /
 ---
 
-# Welcome to MkDocs Jekyll
+# Welcome to HFLA TWE program
 
-This is a starter template for a mkdocs jekyll theme.
+Each project can enter in whatever content copy they would like
 
-![assets/img/macbook-preview.png](assets/img/macbook-preview.png)
+![Alt text](assets/img/hfla_fb_logo.png)
 
 ## Purpose
 

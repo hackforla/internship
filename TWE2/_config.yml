@@ -60,7 +60,7 @@ discourse_per_page: 10
 discourse_category: "stanford-research-computing"
 discourse_tags: null # comma separated string, leave null to not filter
 
-accentColor: green # purple, green, etc.
+accentColor: red # purple, green, etc.
 themeColor: blue # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
