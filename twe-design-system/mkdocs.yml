@@ -1,0 +1,59 @@
+site_name: TWE Design System
+repo_url: https://github.com/hackforla/internship
+nav:
+- Home: index.md
+- Getting Started: getting-started.md
+- Components:
+  - Inputs:
+    - Buttons: buttons.md
+    - Radio Buttons: radio-buttons.md
+    - Checkboxes: checkboxes.md
+    - Toggles: toggles.md
+    - Input Fields: input-fields.md
+    - Dropdowns: dropdowns.md
+    - Text Area: textarea.md
+    - Sliders: slider.md
+  - Date & Time: date.md
+  - Navigation: navigation.md
+  - Content: content.md
+  - Progress & Validation: progress.md
+  - Surfaces: surfaces.md
+- Guides: guides.md
+- FAQ: faq.md
+plugins:
+  - search:
+      lang: en
+
+theme:
+  name: material
+  font: roboto
+  logo: Logo Flatten White.png
+  features: 
+    # - navigation.expand
+    - navigation.instant
+    - navigation.path
+    # - navigation.sections
+    - content.code.copy
+    - content.code.select
+  palette: 
+    primary: white
+    accent: teal
+extra_css:
+  # - components/sass/main.css
+  - stylesheets/extra.css
+  - stylesheets/main.css
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+
