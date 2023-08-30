@@ -31,6 +31,12 @@ hide:
 
         ``` html
         <a href="#"><div class="btn-example-sm ">Button</div></a>
+
+        <a href="#"><div class="btn-example-sm btn-hover">Button</div></a>
+
+        <a href="#"><div class="btn-example-sm btn-focused">Button</div></a>
+
+        <a href="#"><div class="btn-example-sm btn-disabled">Button</div></a>
         
         ```
 
@@ -85,7 +91,13 @@ hide:
     === "HTML"
 
         ``` html
-        <a href="#"><div class="btn-example-sm ">Button</div></a>
+        <a href="#"><div class="btn-example-md ">Button</div></a>
+
+        <a href="#"><div class="btn-example-md btn-hover">Button</div></a>
+
+        <a href="#"><div class="btn-example-md btn-focused">Button</div></a>
+
+        <a href="#"><div class="btn-example-md btn-disabled">Button</div></a>
         
         ```
 
@@ -141,7 +153,13 @@ hide:
     === "HTML"
 
         ``` html
-        <a href="#"><div class="btn-example-sm ">Button</div></a>
+        <a href="#"><div class="btn-example-lg ">Button</div></a>
+
+        <a href="#"><div class="btn-example-lg btn-hover">Button</div></a>
+
+        <a href="#"><div class="btn-example-lg btn-focused">Button</div></a>
+
+        <a href="#"><div class="btn-example-lg btn-disabled">Button</div></a>
         
         ```
 
