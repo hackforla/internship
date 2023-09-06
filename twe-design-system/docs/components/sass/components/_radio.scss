@@ -1,23 +1,34 @@
-input{
-    stroke: $button-defaultcolor;
+input[type="radio"]:not(:checked) {
+    border: 20px solid red; 
+    background-color: red; 
+    stroke: red;
+    color: red;
+    outline-color: red;
+    width: 26px;
+    margin-right: 5px;
+    
+    &:disabled {
+        background: #c6c6c6;
+    }
+    &.hover{
+        opacity: .3;
+    }
+    
 }
-label{
-    color: $button-defaultcolor;
-}
-input.radio-btn{
-    stroke: $button-defaultcolor;
-    border-color: $button-defaultcolor;
-    accent-color: $button-defaultcolor;
-    background-color: $button-defaultcolor;
-    color: $button-defaultcolor;
 
-}
-#alpha{
-    stroke: $button-defaultcolor;
-    border-color: $button-defaultcolor;
+input[type="radio"]:checked {
+    width: 26px;
+    margin-right: 5px;
     accent-color: $button-defaultcolor;
-    background-color: $button-defaultcolor;
-    color: $button-defaultcolor;
+
+    &.disabled,
+    :disabled{
+        accent-color: #6f6f6f;
+    }
+    &.hover,
+    :hover{
+        opacity: .3;
+    }
 
 }
 

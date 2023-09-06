@@ -6,7 +6,7 @@ hide:
 === "Button Unselected"
     <div class="btn-grid-1">
         <div class="grid-items"> 
-            <input type="radio" class="radio-btn" id="alpha">
+            <input type="radio">
             <label for="option">Option</label>
         </div>
     </div>
@@ -18,16 +18,20 @@ hide:
         <div class="grid-items">Pressed</div>
         <div class="grid-items">Disabled</div>
         <div class="grid-items"> 
-            <input type="radio" class="radio-btn">
+            <input type="radio" >
+            <label for="option">Option</label>
         </div>
         <div class="grid-items"> 
-            <input type="radio"> 
+            <input type="radio" class="hover">
+            <label for="option">Option</label>
         </div>
         <div class="grid-items"> 
             <input type="radio">
+            <label for="option" class="pressed">Option</label>
         </div>
         <div class="grid-items"> 
-            <input type="radio">
+            <input disabled type="radio">
+            <label for="option">Option</label>
         </div>
     </div>
     <br>
@@ -78,6 +82,7 @@ hide:
             <label for="option">Option</label>
         </div>
     </div>
+    <br>
     # **STATES**
     <div class="btn-grid-4">
         <div class="grid-items">Default<br></div>
@@ -85,16 +90,20 @@ hide:
         <div class="grid-items">Pressed</div>
         <div class="grid-items">Disabled</div>
         <div class="grid-items"> 
-            <input type="radio" class="radio-btn">
+            <input type="radio" >
+            <label for="option">Option</label>
         </div>
         <div class="grid-items"> 
-            <input type="radio"> 
+            <input type="radio" class="hover">
+            <label for="option">Option</label>
         </div>
         <div class="grid-items"> 
             <input type="radio">
+            <label for="option" class="pressed">Option</label>
         </div>
         <div class="grid-items"> 
-            <input type="radio">
+            <input type="radio" class="disabled">
+            <label for="option">Option</label>
         </div>
     </div>
     <br>
