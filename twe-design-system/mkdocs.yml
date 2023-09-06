@@ -6,7 +6,7 @@ nav:
 - Components:
   - Inputs:
     - Buttons: buttons.md
-    - Radio Buttons: radio-buttons.md
+    - Radio Buttons: radio.md
     - Checkboxes: checkboxes.md
     - Toggles: toggles.md
     - Input Fields: input-fields.md
@@ -39,9 +39,9 @@ theme:
     primary: white
     accent: teal
 extra_css:
-  # - components/sass/main.css
+  - components/sass/main.css
   - stylesheets/extra.css
-  - stylesheets/main.css
+  # - stylesheets/main.css
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true

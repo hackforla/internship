@@ -1,0 +1,43 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+/// Colors
+$color-white: #ffffff;
+$color-light-grey:#F8F9FC;
+$color-dark-grey: #989898;
+$color-black: #333333;
+$color-green: #247984;
+$color-darkgreen: #0D5761;
+/// Font family
+$text-font-stack: (
+  'Roboto',  
+  sans-serif
+  );
+$text-color: $color-black;
+$text-muted: $color-dark-grey;
+
+$line-height-base: 1.5;
+$line-height-computed: 1.5rem;
+$body-bg: $color-white;
+
+$button-border-radius-sm: 20px;
+$button-border-radius-md: 60px;
+$button-border-radius-lg: 100px;
+$button-text-color: $color-white;
+$button-defaultcolor: $color-green;
+$button-hovercolor: $color-darkgreen;
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+// $breakpoints: (
+//   'small': 320px,
+//   'medium': 768px,
+//   'large': 1024px,
+// ) !default;
+
+$screen-tablet: 768px;
+$bp-below-tablet: '(max-width: #{$screen-tablet - 1})';

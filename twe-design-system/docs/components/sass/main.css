@@ -1,0 +1,156 @@
+body {
+  color: #333333;
+  font: normal 125%/1.4 "Roboto", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*================================================================
+  Buttons
+  To create a button: add the base button class, a color
+  class, a size class, and (when needed) a page-specific class.
+  Index:
+  - Base class
+  - Color classes
+  - Size classes
+  - Page-specific classes
+=================================================================*/
+/*---------------------------
+  Button Base class
+  * Use on all buttons
+---------------------------*/
+.btn {
+  border: 0;
+  box-shadow: 0 0 8px 0 rgba(51, 51, 51, 0.2);
+  display: inline-block;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 100ms ease-in;
+  white-space: nowrap;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  margin: 5px 0;
+  color: white;
+  --md-typeset-a-color: white;
+}
+
+/*---------------------------
+  Button Colors
+---------------------------*/
+/*   Primary Button  ---  Green   */
+.btn {
+  background: #247984;
+  color: #ffffff;
+  border: 4px solid transparent;
+}
+.btn:focus, .btn.focus {
+  border-color: #0D5761;
+  outline-color: #0D5761;
+}
+.btn:disabled {
+  background: #c6c6c6;
+}
+.btn:hover, .btn:active, .btn.hover, .btn.active {
+  background: #0D5761;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.disabled {
+  background: #c6c6c6;
+}
+
+/*---------------------------
+  Button Sizes
+---------------------------*/
+.btn-sm {
+  height: 40px;
+  padding: 0 32px;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+.btn-md {
+  height: 60px;
+  padding: 0 50px;
+  border-radius: 60px;
+  font-size: 1.25rem;
+}
+
+.btn-lg {
+  height: 72px;
+  padding: 0 60px;
+  border-radius: 100px;
+  font-size: 1.5rem;
+}
+@media (max-width: 767px) {
+  .btn-lg {
+    height: 60px;
+    padding: 0 50px;
+    border-radius: 60px;
+    font-size: 1.25rem;
+  }
+}
+
+/*----------------------------------------------------
+  Page-Specific Button Classes
+  * Use when special styling is needed for a button
+  on a specific page (usually placement)
+-----------------------------------------------------*/
+/*
+- Page-specific class name formatting should be:
+  btn--page-name
+  EXAMPLE: btn--wins
+- If there is more than one button in the page, formatting for each button should be:
+  btn--page-name-button-function
+  EXAMPLE: btn--home-getting-started
+- Page-specific class names should live in that specific page's .scss file.
+*/
+input {
+  stroke: #247984;
+}
+
+label {
+  color: #247984;
+}
+
+input.radio-btn {
+  stroke: #247984;
+  border-color: #247984;
+  accent-color: #247984;
+  background-color: #247984;
+  color: #247984;
+}
+
+#alpha {
+  stroke: #247984;
+  border-color: #247984;
+  accent-color: #247984;
+  background-color: #247984;
+  color: #247984;
+}
+
+.btn-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+}
+
+.btn-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  text-align: center;
+}
+
+.grid-items {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}/*# sourceMappingURL=main.css.map */

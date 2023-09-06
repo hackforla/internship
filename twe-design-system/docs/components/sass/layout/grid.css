@@ -1,0 +1,13 @@
+.btn-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+}
+
+.grid-items {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}/*# sourceMappingURL=grid.css.map */
