@@ -5,7 +5,7 @@
         <div>
             <div class = "input-field-container">
                 <label for ="label">Label</label>
-                <input class ="input-box-default" type="text"></input>
+                <input class ="input-box default" type="text" placeholder="Placeholder"></input>
                 <p>Hint text</p>
             </div>
         </div>
@@ -13,7 +13,7 @@
         <div>
             <div class = "input-field-container">
                 <label for ="label">Label</label>
-                <input class ="input-box-hover" type="text"></input>
+                <input class ="input-box hover" type="text" placeholder="Placeholder"></input>
                 <p>Hint text</p>
             </div>
         </div>
@@ -21,7 +21,7 @@
         <div>
             <div class = "input-field-container">
                 <label for ="label">Label</label>
-                <input class ="input-box-focused" type="text"></input>
+                <input class ="input-box focused" type="text" placeholder="Placeholder"></input>
                 <p>Hint text</p>
             </div>
         </div>
@@ -29,7 +29,7 @@
         <div>
             <div class = "input-field-container">
                 <label for ="label">Label</label>
-                <input class ="input-box-alert" type="text"></input>
+                <input class ="input-box alert" type="text" placeholder="Placeholder"></input>
                 <p>Hint text</p>
             </div>
         </div>
@@ -37,7 +37,7 @@
         <div>
             <div class = "input-field-container">
                 <label for ="label">Label</label>
-                <input class ="input-box-success" type="text"></input>
+                <input class ="input-box success" type="text" placeholder="Placeholder"></input>
                 <p>Hint text</p>
             </div>
         </div>
