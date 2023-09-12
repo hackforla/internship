@@ -26,7 +26,8 @@ plugins:
 
 theme:
   name: material
-  font: roboto
+  font: 
+    text: roboto
   logo: Logo Flatten White.png
   features: 
     # - navigation.expand

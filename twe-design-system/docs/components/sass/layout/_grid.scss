@@ -17,3 +17,8 @@
     align-content: center;
     justify-content: center;
 }
+
+.grid-1-5{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}

@@ -1,0 +1,47 @@
+.input-field-container {
+    display: grid;
+    padding: 5%;
+    
+}
+.input-main{
+    display: flex;
+    justify-content: center;
+}
+.input-vari{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    color: #9F9F9F;
+    font-size: 1.6rem;
+    
+}
+.input-box-default{
+    border: lightgrey 2px solid;
+    background-color: #FAFAFA;
+    height: 1.6rem;
+    width: 345px;
+}
+.input-box-hover{
+    border: black 2px solid;
+    background-color: #FAFAFA;
+    height: 1.6rem;
+    width: 345px;
+}
+.input-box-focused{
+    border: black 2px solid;
+    background-color: #E7F0F1;
+    height: 1.6rem;
+    width: 345px;
+}
+.input-box-alert{
+    border: red 2px solid;
+    background-color: #FAFAFA;
+    height: 1.6rem;
+    width: 345px;
+}
+.input-box-success{
+    border: #73A03B 2px solid;
+    background-color: #FAFAFA;
+    height: 1.6rem;
+    width: 345px;
+}
