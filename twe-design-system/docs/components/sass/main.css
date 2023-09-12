@@ -160,8 +160,9 @@ input[type=radio]:checked :hover {
 }
 
 .input-box {
-  height: 2rem;
-  width: 345px;
+  height: 48px;
+  width: 348px;
+  border-radius: 4px;
 }
 .input-box.default {
   border: lightgrey 2px solid;
