@@ -42,4 +42,43 @@
             </div>
         </div>
     </div>
-        
+</div>
+=== "HTML"
+
+    ``` html
+    <a href="#" class="btn-sm ">Button</a>
+
+    <a href="#" class="btn-sm hover">Button</a>
+
+    <a href="#" class="btn-sm focus">Button</a>
+
+    <a href="#" class="btn-sm disabled">Button</a>
+    
+    ```
+
+=== "CSS"
+
+    ``` css
+
+    .btn-sm{
+        background-color: #247984;
+        height: 40px;
+        border-radius: 20px;
+        padding: 0px 32px;
+        color: white;
+        line-height: 40px;
+        width: fit-content;
+    }
+
+    .btn .hover{
+        background: #0D5761;
+    }
+    .btn .focused{
+        border-color: #0D5761;
+        outline-color: #0D5761;
+    }
+    .btn .disabled{
+        background: #c6c6c6;
+    }
+    
+    ```        
