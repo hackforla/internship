@@ -8,10 +8,10 @@ nav:
     - Buttons: buttons.md
     - Radio Buttons: radio.md
     - Input Fields: input-fields.md
+    - Text Area: textarea.md
     - Checkboxes: checkboxes.md
     - Toggles: toggles.md
     - Dropdowns: dropdowns.md
-    - Text Area: textarea.md
     - Sliders: slider.md
   - Date & Time: date.md
   - Navigation: navigation.md

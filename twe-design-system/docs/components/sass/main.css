@@ -156,7 +156,8 @@ input[type=radio]:checked :hover {
   justify-content: center;
   align-content: center;
   color: #9F9F9F;
-  font-size: 1.6rem;
+  font-size: 45px;
+  font-weight: bold;
 }
 
 .input-box {
@@ -182,6 +183,44 @@ input[type=radio]:checked :hover {
 }
 .input-box.success {
   border: #73A03B 2px solid;
+  background-color: #FAFAFA;
+}
+
+.textarea-field-container {
+  display: grid;
+  padding: 5%;
+}
+
+.input-main {
+  display: flex;
+  justify-content: center;
+}
+
+.textarea-vari {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  color: #9F9F9F;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.textarea-box {
+  height: 122px;
+  width: 348px;
+  padding: 12px 0 0 12px;
+  border-radius: 4px;
+}
+.textarea-box.default {
+  border: #E7F0F1 2px solid;
+  background-color: #E7F0F1;
+}
+.textarea-box.hover {
+  border: lightgray 2px solid;
+  background-color: #FAFAFA;
+}
+.textarea-box.focused {
+  border: #A0C4C9 2px solid;
   background-color: #FAFAFA;
 }
 
