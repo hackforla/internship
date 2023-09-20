@@ -38,10 +38,15 @@ theme:
     - content.code.select
   palette: 
     primary: white
-    accent: teal
+    accent: red
 extra_css:
   - components/sass/main.css
   - stylesheets/extra.css
+  # - /bootstrap/css/bootstrap.min.css
+extra_javascript:
+  - javascript/extra.js
+  - javascript/bootstrap.min.js
+  - https://code.jquery.com/jquery-1.12.4.min.js
   
 markdown_extensions:
   - pymdownx.highlight:

@@ -1,0 +1,27 @@
+.dropdowns{
+    max-width: 348px;
+    width: 100%;
+    height: 48px;
+    border-radius: 4px;
+    border: 2px solid #6F6F6F;
+    
+
+    &.selected{
+        border-color:  #A0C4C9;
+    }
+    &.hover{
+        border-color: #263238;
+    }
+    
+}
+.dropdowns-label{
+    text-align: left;
+    width: 348px;
+    font-size: 14px;
+    
+}
+.dropdowns option{
+    background-color: #FAFAFA;
+    height: 48px;
+}
+

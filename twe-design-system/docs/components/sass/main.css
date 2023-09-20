@@ -224,6 +224,36 @@ input[type=radio]:checked :hover {
   background-color: #FAFAFA;
 }
 
+.dropdowns {
+  width: 348px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #6F6F6F;
+}
+.dropdowns.selected {
+  border-color: #A0C4C9;
+}
+.dropdowns.hover {
+  border-color: #263238;
+}
+
+.dropdowns-label {
+  text-align: left;
+  width: 348px;
+  font-size: 14px;
+}
+
+.dropdowns option {
+  background-color: #FAFAFA;
+  height: 48px;
+}
+
+.btn-grid-1 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  text-align: center;
+}
+
 .btn-grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -242,6 +272,17 @@ input[type=radio]:checked :hover {
   display: flex;
   align-content: center;
   justify-content: center;
+  background-color: #F3F3F3;
+}
+
+.grid-items-flex {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #F3F3F3;
 }
 
 .grid-1-5 {
