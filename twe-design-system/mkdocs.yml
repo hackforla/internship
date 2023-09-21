@@ -9,9 +9,9 @@ nav:
     - Radio Buttons: radio.md
     - Input Fields: input-fields.md
     - Text Area: textarea.md
+    - Dropdowns: dropdowns.md
     - Checkboxes: checkboxes.md
     - Toggles: toggles.md
-    - Dropdowns: dropdowns.md
     - Sliders: slider.md
   - Date & Time: date.md
   - Navigation: navigation.md
@@ -38,7 +38,7 @@ theme:
     - content.code.select
   palette: 
     primary: white
-    accent: red
+    accent: teal
 extra_css:
   - components/sass/main.css
   - stylesheets/extra.css

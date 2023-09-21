@@ -4,15 +4,23 @@
     height:2.1rem;
     padding-left: 5px;
     line-height: 2rem;
+    text-align: center;
+}
+.md-nav__link a{
+    text-align: center;
 }
 
 .md-nav__item a:hover{
     background-color: #A0C4C9;
     border-radius: 6px;
-    padding-left: 15%;
     width: 70%;
     
 }
+
+.md-nav__list{
+    width:15vw
+}
+
 
 .md-nav__link:not(.md-nav__container):hover {
     color: black;

@@ -225,7 +225,8 @@ input[type=radio]:checked :hover {
 }
 
 .dropdowns {
-  width: 348px;
+  max-width: 348px;
+  width: 100%;
   height: 48px;
   border-radius: 4px;
   border: 2px solid #6F6F6F;
@@ -252,12 +253,14 @@ input[type=radio]:checked :hover {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   text-align: center;
+  min-height: 15vh;
 }
 
 .btn-grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   text-align: center;
+  min-height: 15vh;
 }
 
 .btn-grid-4 {
@@ -273,6 +276,7 @@ input[type=radio]:checked :hover {
   align-content: center;
   justify-content: center;
   background-color: #F3F3F3;
+  flex-wrap: wrap;
 }
 
 .grid-items-flex {

@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     text-align: center;
+    min-height: 15vh;
 }
 
 
@@ -9,6 +10,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     text-align: center;
+    min-height: 15vh;
 }
 
 .btn-grid-4{
@@ -24,6 +26,7 @@
     align-content: center;
     justify-content: center;
     background-color: #F3F3F3;
+    flex-wrap: wrap;
 }
 .grid-items-flex {
     border: 1px solid #ccc;
