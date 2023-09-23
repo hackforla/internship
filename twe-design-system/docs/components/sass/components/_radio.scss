@@ -6,6 +6,8 @@ input[type="radio"]:not(:checked) {
     outline-color: red;
     width: 26px;
     margin-right: 5px;
+    accent-color: red;
+    
     
     &:disabled {
         background: #c6c6c6;
