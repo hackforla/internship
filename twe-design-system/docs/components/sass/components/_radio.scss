@@ -1,12 +1,11 @@
-input[type="radio"]:not(:checked) {
-    border: 20px solid red; 
-    background-color: red; 
-    stroke: red;
-    color: red;
-    outline-color: red;
+input[type="radio"]{
+    border:.5px solid $radio-color;
+    border-radius: 50%;
     width: 26px;
     margin-right: 5px;
     accent-color: red;
+    appearance: none;
+    -webkit-appearance: none;
     
     
     &:disabled {
@@ -21,7 +20,11 @@ input[type="radio"]:not(:checked) {
 input[type="radio"]:checked {
     width: 26px;
     margin-right: 5px;
-    accent-color: $button-defaultcolor;
+    accent-color: $radio-color;
+    background-color: $radio-color;
+    border: 3px solid #FFF;
+    box-shadow: 0 0 0 1px $radio-color;
+    
 
     &.disabled,
     :disabled{

@@ -111,20 +111,20 @@ body {
   EXAMPLE: btn--home-getting-started
 - Page-specific class names should live in that specific page's .scss file.
 */
-input[type=radio]:not(:checked) {
-  border: 20px solid red;
-  background-color: red;
-  stroke: red;
-  color: red;
-  outline-color: red;
+input[type=radio] {
+  border: 0.5px solid #247984;
+  border-radius: 50%;
   width: 26px;
   margin-right: 5px;
   accent-color: red;
+  -moz-appearance: none;
+       appearance: none;
+  -webkit-appearance: none;
 }
-input[type=radio]:not(:checked):disabled {
+input[type=radio]:disabled {
   background: #c6c6c6;
 }
-input[type=radio]:not(:checked).hover {
+input[type=radio].hover {
   opacity: 0.3;
 }
 
@@ -132,6 +132,9 @@ input[type=radio]:checked {
   width: 26px;
   margin-right: 5px;
   accent-color: #247984;
+  background-color: #247984;
+  border: 3px solid #FFF;
+  box-shadow: 0 0 0 1px #247984;
 }
 input[type=radio]:checked.disabled,
 input[type=radio]:checked :disabled {
