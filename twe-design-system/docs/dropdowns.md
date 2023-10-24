@@ -130,25 +130,29 @@ hide:
             }
             
             ```
-=== "Drop Down Item"
+=== "Drop Down Open"
     <div class="btn-grid-1">
-        <div class="grid-items-flex">
+        <div class="grid-items-flex dropdown-grid">
             <label class= "dropdowns-label">Label</Label>
-            <select class="dropdowns">
-                <option>Placeholder</option>
-            </select> 
+            <div class="select-wrapper">
+                    <div class="select opened">
+                        <div class="select__trigger"><span>Placeholder</span>
+                            <div class="arrow"></div>
+                        </div>
+                        <div class="custom-options">
+                            <span class="custom-option selected" data-value="placeholder1">Placeholder</span>
+                            <span class="custom-option" data-value="placeholder2">Placeholder2</span>
+                            <span class="custom-option dropdown-placeholder-hover-color" data-value="placeholder3">Placeholder3</span>
+                        </div>
+                    </div>
+                </div>  
         </div>
     </div>
     # **STATES**
     === "Hover"
         <div class="btn-grid-1">
             <div class="grid-items-flex">
-                <label class= "dropdowns-label">Label</Label>
-                <select class="dropdowns hover">
-                    <option>Placeholder</option>
-                    <option>Placeholder 2</option>
-                    <option>Placeholder 3</option>
-                </select> 
+                <h3>No State</h3>
             </div>
         </div>
         === "HTML"

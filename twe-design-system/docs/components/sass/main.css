@@ -364,6 +364,20 @@ input[type=radio]:checked :hover {
   transform: rotate(45deg);
 }
 
+.select.opened .custom-options {
+  visibility: visible;
+  opacity: 1;
+}
+
+.dropdown-placeholder-hover-color {
+  background-color: #CFE1E4;
+}
+
+.dropdown-grid {
+  height: 30vh;
+  justify-content: flex-start !important;
+}
+
 .btn-grid-1 {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
