@@ -30,16 +30,7 @@ hide:
             <div class="grid-items-flex">
                 <label class= "dropdowns-label">Label</Label>
                 <div class="select-wrapper">
-                    <div class="select">
-                        <div class="select__trigger"><span>Placeholder</span>
-                            <div class="arrow"></div>
-                        </div>
-                        <div class="custom-options">
-                            <span class="custom-option selected" data-value="placeholder1">Placeholder</span>
-                            <span class="custom-option" data-value="placeholder2">Placeholder2</span>
-                            <span class="custom-option" data-value="placeholder3">Placeholder3</span>
-                        </div>
-                    </div>
+                    <span class="custom-option hovered" data-value="placeholder1">Placeholder</span>
                 </div> 
             </div>
         </div>
@@ -84,11 +75,9 @@ hide:
         <div class="btn-grid-1">
             <div class="grid-items-flex">
                 <label class= "dropdowns-label">Label</Label>
-                <select class="dropdowns selected">
-                    <option>Placeholder</option>
-                    <option>Placeholder 2</option>
-                    <option>Placeholder 3</option>
-                </select> 
+                <div class="select-wrapper">
+                    <span class="custom-option selected" data-value="placeholder1">Placeholder</span>
+                </div> 
             </div>
         </div>
         

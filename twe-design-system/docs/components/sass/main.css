@@ -378,6 +378,10 @@ input[type=radio]:checked :hover {
   justify-content: flex-start !important;
 }
 
+.custom-option.hovered {
+  background-color: #CFE1E4;
+}
+
 .btn-grid-1 {
   display: grid;
   grid-template-columns: repeat(1, 1fr);

@@ -136,3 +136,7 @@
     height: 30vh;
     justify-content: flex-start !important;
 }
+
+.custom-option.hovered {
+    background-color: $dropdown-hover-color;
+}
