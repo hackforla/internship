@@ -263,8 +263,6 @@ input[type=radio]:checked :hover {
   position: relative;
   display: flex;
   flex-direction: column;
-  border-width: 0 2px 0 2px;
-  border-style: solid;
   border-color: #6F6F6F;
 }
 
@@ -278,12 +276,11 @@ input[type=radio]:checked :hover {
   font-weight: 300;
   color: #6F6F6F;
   height: 48px;
-  line-height: 60px;
   background: #ffffff;
   cursor: pointer;
-  border-width: 2px 0 2px 0;
-  border-style: solid;
+  border: solid 2px;
   border-color: #6F6F6F;
+  line-height: 48px;
 }
 
 .custom-options {
@@ -317,6 +314,7 @@ input[type=radio]:checked :hover {
   color: #6F6F6F;
   cursor: pointer;
   transition: all 0.5s;
+  line-height: 48px;
 }
 
 .custom-option:hover {
@@ -339,7 +337,7 @@ input[type=radio]:checked :hover {
   content: "";
   position: absolute;
   bottom: 0px;
-  width: 0.15rem;
+  width: 0.1rem;
   height: 100%;
   transition: all 0.5s;
 }

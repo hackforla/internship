@@ -33,8 +33,6 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    border-width: 0 2px 0 2px;
-    border-style: solid;
     border-color: $drowpdown-border-color;
 }
 .select__trigger {
@@ -47,12 +45,11 @@
     font-weight: 300;
     color: $dropdown-placeholder-color;
     height: 48px;
-    line-height: 60px;
     background: #ffffff;
     cursor: pointer;
-    border-width: 2px 0 2px 0;
-    border-style: solid;
+    border: solid 2px;
     border-color: $drowpdown-border-color;
+    line-height: 48px;
     
 }
 .custom-options {
@@ -69,6 +66,8 @@
     visibility: hidden;
     pointer-events: none;
     z-index: 2;
+    
+
 }
 .select.open .custom-options {
     opacity: 1;
@@ -84,6 +83,8 @@
     color: $dropdown-placeholder-color;
     cursor: pointer;
     transition: all 0.5s;
+    line-height: 48px;
+    
 }
 .custom-option:hover {
     cursor: pointer;
@@ -102,7 +103,7 @@
     content: "";
     position: absolute;
     bottom: 0px;
-    width: 0.15rem;
+    width: 0.10rem;
     height: 100%;
     transition: all 0.5s;
 }
