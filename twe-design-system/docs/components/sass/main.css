@@ -273,8 +273,8 @@ input[type=radio]:checked :hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 22px;
-  font-size: 20px;
+  padding: 0 12px;
+  font-size: 16px;
   font-weight: 300;
   color: #6F6F6F;
   height: 48px;
@@ -312,7 +312,7 @@ input[type=radio]:checked :hover {
   position: relative;
   display: block;
   padding: 0 22px 0 22px;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 300;
   color: #6F6F6F;
   cursor: pointer;
