@@ -1,15 +1,14 @@
-const selectElement = document.querySelector('.dropdowns');
 
+for (const dropdown of document.querySelectorAll(".select-wrapper")) {
+    dropdown.addEventListener('click', function() {
+        this.querySelector('.select').classList.toggle('open');
+    })
+}
 
-selectElement.addEventListener('click', () => {
-    const options = selectElement.querySelectorAll('option');
-    
-    options.forEach((option) => {
-        option.style.backgroundColor = 'RED';
-        option.style.height = '48px';
-        option.style.padding = '10px'
-
-    });
-
-    
+window.addEventListener('click', function(e) {
+    for (const select of document.querySelectorAll('.select')) {
+        if (!select.contains(e.target)) {
+            select.classList.remove('open');
+        }
+    }
 });
