@@ -13,8 +13,3 @@ window.addEventListener('click', function(e) {
     }
 });
 
-for (const dropdown of document.querySelectorAll(".select-wrapper")) {
-    dropdown.addEventListener('click', function() {
-        this.querySelector('.select').classList.toggle('open');
-    })
-}
