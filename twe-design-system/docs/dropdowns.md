@@ -16,7 +16,7 @@ hide:
                             <div class="arrow"></div>
                         </div>
                         <div class="custom-options">
-                            <span class="custom-option selected" data-value="placeholder1">Placeholder</span>
+                            <span class="custom-option" data-value="placeholder1">Placeholder</span>
                             <span class="custom-option" data-value="placeholder2">Placeholder2</span>
                             <span class="custom-option" data-value="placeholder3">Placeholder3</span>
                         </div>
