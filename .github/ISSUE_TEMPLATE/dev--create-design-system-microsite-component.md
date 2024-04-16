@@ -1,5 +1,5 @@
 ---
-name: 'Dev: Create Component'
+name: 'Dev: Create Design System Microsite Component'
 about: This issue helps you structure your template issue to be consistent with our
   other template issues in Design System Component Creation
 title: 'WE: Dev: Design System: Create [Replace with NAME OF COMPONENT]'
