@@ -53,10 +53,11 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
      - [ ] SASS file goes into the /docs/components/sass/components folder (Resource 1.06)
    - [ ] Create component classes and states within the page
    - [ ] Include Files via code snippets to create the code section (see Resource 1.07 for details)
+   - [ ] Add links to SASS and Markdown files below the code (see examples in Resource 1.08)
 - [ ] Review template frontend for errors 
 - [ ] Make a PR
 - Once PR is merged
-   - [ ] connect component in Figma to GitHub Files (Resource 1.08)
+   - [ ] connect component in Figma to GitHub Files (Resource 1.09)
    - [ ] Add links to `Resources gathered during the completion of this issue` section
       - [ ] 2.01 MD file(s) created
       - [ ] 2.02 SASS file(s) created
@@ -73,8 +74,11 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
 - 1.05 variables file: [/docs/components/sass/abstracts/_variables.scss](https://github.com/hackforla/internship-website-design-system/tree/main/docs/components/sass/abstracts) on repo
 - 1.06 SASS file folder: [/docs/components/sass/components](https://github.com/hackforla/internship-website-design-system/tree/main/docs/components/sass/components)
 - 1.07 WIKI: [How to Create a Design System Microsite Page using Snippets](https://github.com/hackforla/internship/wiki/How-to-Create-a-Design-System-Microsite-Page-using-Snippets)
-- 1.08 [Connect component in Figma to GitHub Files](https://github.com/hackforla/internship/wiki/Connect-component-in-Figma-to-GitHub-Files)
-- 1.09 Original Design Issue: [Replace with LINK TO DESIGN ISSUE FROM EPIC]
+- 1.08 e.g., 
+   - below the CSS tab, it would say CSS: https://github.com/hackforla/internship-website-design-system/blob/main/docs/components/sass/components/_buttons.scss
+   - below the HTML tab it would say HTML: https://github.com/hackforla/internship-website-design-system/blob/main/docs/buttons.md
+- 1.09 [Connect component in Figma to GitHub Files](https://github.com/hackforla/internship/wiki/Connect-component-in-Figma-to-GitHub-Files)
+- 1.10 Original Design Issue: [Replace with LINK TO DESIGN ISSUE FROM EPIC]
    - Microsite Epic Issue with list of design issues: #https://github.com/hackforla/internship/issues/455#issuecomment-2057437256
 
 #### Resources gathered during the completion of this issue
