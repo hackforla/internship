@@ -102,12 +102,12 @@ A STEP BY STEP LIST OF ALL THE TASK ITEMS THAT YOU CAN THINK OF NOW EXAMPLES INC
 
 ### Resources
 #### Resources for creating this issue
-1.01
-1.02
+- 1.01
+- 1.02
 
 #### Resources gathered during the completion of this issue
-2.01
-2.02
+- 2.01
+- 2.02
 ```
 
 - 1.02 Front Matter Resources
@@ -162,12 +162,12 @@ A STEP BY STEP LIST OF ALL THE TASK ITEMS THAT YOU CAN THINK OF NOW EXAMPLES INC
 
    ```
    ### Resources for creating this issue
-   1.01. [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team)
-   1.02. [Design Process Overview](https://github.com/hackforla/internship/wiki/Design-Process-Overview)
+   - 1.01. [Internship Wiki, Join the team page](https://github.com/hackforla/internship/wiki/Joining-the-Team)
+   - 1.02. [Design Process Overview](https://github.com/hackforla/internship/wiki/Design-Process-Overview)
 
    ### Resource links gathered during the making of this issue
-   2.01. [Wiki page for [Replace TYPE OF ROLE]]
-   2.02. [TWE: Template: [Replace NAME OF TEMPLATE]]
+   - 2.01. [Wiki page for [Replace TYPE OF ROLE]]
+   - 2.02. [TWE: Template: [Replace NAME OF TEMPLATE]]
    ```
 
    </details>
