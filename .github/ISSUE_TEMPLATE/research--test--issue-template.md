@@ -1,5 +1,5 @@
 ---
-name: 'TWE: Template Issue: Research: Test: Issue Template'
+name: 'Research: Test: Issue Template'
 about: This issue takes the draft of an issue template and provides a checklist to
   see if it's ready for deployment, and if not, give feedback until it is ready to
   be made available to use
