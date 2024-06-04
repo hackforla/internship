@@ -47,7 +47,7 @@ The person who creates this issue should use these links to add links to the res
        - [ ] Team member: add the `ready for research lead` label
 
 ### Dependencies
-[Replace with the link to the issue template this issue will review]
+[Replace with the link to the issue template issue this issue will review, when its issue template is ready for testing]
 
 ### Overview
 We need to test the [Replace DIRECT OBJECT] Issue Template so that researchers can start making [Replace DIRECT OBJECT] issues on/for the various research plans/tasks
