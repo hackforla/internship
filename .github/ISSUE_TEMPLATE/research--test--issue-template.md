@@ -82,7 +82,7 @@ We expect that the template you are testing will need some improvement and the f
    - Add all the labels associated with the template to be tested in the new issue you just created
       - [ ] Under Labels, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>
       - [ ] Select each label you previously located 
-   - [ ] Add `status: template testing (step 2b)` label
+   - [ ] Add `status: template testing (step 2a)` label
 - Add new issue to Project Board
    - [ ] Under Projects, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>, choose Repository, and choose Program Management
    - [ ] refresh the browser tab
