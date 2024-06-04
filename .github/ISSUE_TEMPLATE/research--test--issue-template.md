@@ -11,6 +11,15 @@ assignees: ''
 
 ---
 
+---
+### Draft of template issue for `Create Research Template Issue, Testing Guidance`
+**name:** TWE: Template Issue: Research: Test: Issue Template
+**about:** This issue takes the draft of an issue template and provides a checklist to see if it's ready for deployment, and if not, give feedback until it is ready to be made available to use.
+** title:** Research: Test: Issue Template: [Replace with TEMPLATE NAME]
+**labels:** feature: missing, feature: test a template (step 2a), status: template testing, milestone: missing, role: UI/UX research, size: 3pt', 'Participant Type: TWE Team Member', 'complexity: good first issue', 'feature: research', 'time sensitive'
+**assignees:**
+
+---
 #### Instructions for creating this issue
 The person who creates this issue should use these links to add links to the resources section and customize this issue
 - Customize the issue
@@ -53,28 +62,44 @@ We expect that the template you are testing will need some improvement and the f
    - [ ] Choose edit 
    - [ ] Select the contents (Use Select All **Mac:** ⌘+A or **PC**: Ctrl+A) 
    - [ ] Copy the contents (Use Copy **Mac:** ⌘+C or **PC**: Ctrl+C) 
-- [ ] Open a new blank issue template (Resource 1.02)
-- [ ] Paste the draft into the new issue body
-- [ ] Replace the title with the following text
-   ```
-   `[TEST]` 
-   ```
-- [ ] Add the title from Resource 1.03 after the text: `[TEST]`.  This part is the title that would have been provided if the issue was made from a template instead of this testing process. 
-- [ ] Submit the new issue
-- [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose Repository, and choose Program Management
-- [ ] refresh the browser tab
-- [ ] Under program management, choose the down arrow and change the selection from New Issue Approval to In Progress
-- [ ] Assign yourself to the new issue
-- [ ] Follow the instructions in the new issue.  Your goal is to test that the template is sufficient for creating the issue and working on it, so for the purposes of this test, you are the creator of the issue and the assignee.
-- [ ] If you have any questions about the instructions in this issue, leave a comment below and move this issue to the Questions column add `ready for research lead` label
-- [ ] When you have question or suggestions about the instructions in the new issue  issue you are using to test the template, please:
-   - [ ] leave comments in that new issue, @ messaging the person who made the template in your comment
-   - [ ] move it to the Questions column
-   - [ ] add `ready for research lead` label
-   - [ ] @ message the person who made the template in Slack with a link to your comment.
-- [ ] Review changes to the template made by author and repeat your review process until you are satisfied that it's ready for deployment
-   - [ ] Leave a comment on the template issue and the new issue you created with your sign-off (@ messaging both the template author and the Research Lead)
-   - [ ] Add the issues to the next Research team agenda (Resource 1.04) and @ messaging both the template author and the Research Lead via the team Slack channel with a link to the issue comments)
+- Create the new issue
+   - [ ] Open a new blank issue template (Resource 1.02)
+- Use the template to customize the issue
+   - [ ] Paste the draft into the new issue body
+   - [ ] Replace the title with the following text
+      ```
+      `[TEST]` 
+      ```
+   - [ ] Add the title from Resource 1.03 after the text: `[TEST]`.  This part is the title that would have been provided if the issue was made from a template instead of this testing process. 
+   - [ ] Submit the new issue
+- Add Labels to the new issue
+   - [ ] Locate the labels associated with the template to be tested.
+      <details><summary>Example: See the highlighted section</summary>
+      <p>
+      <img width="400" alt="Screenshot 2024-05-28 at 11 35 24 AM" src="https://github.com/hackforla/internship/assets/57029070/4146ecaa-a893-41e7-9c65-3c0704eb1686">
+      <p>
+      </details>               
+   - Add all the labels associated with the template to be tested in the new issue you just created
+      - [ ] Under Labels, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>
+      - [ ] Select each label you previously located 
+   - [ ] Add `status: template testing (step 2b)` label
+- Add new issue to Project Board
+   - [ ] Under Projects, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>, choose Repository, and choose Program Management
+   - [ ] refresh the browser tab
+   - [ ] Under program management, choose the down arrow and change the selection from New Issue Approval to In Progress
+- Assign yourself the issue
+   - [ ] Under Assignees, Choose No one - assign yourself
+- Use the new issue to test the template
+   - [ ] Follow the instructions in the new issue.  Your goal is to test that the template is sufficient for creating the issue and working on it, so for the purposes of this test, you are the creator of the issue and the assignee.
+   - [ ] If you have any questions about the instructions in this issue, leave a comment below and move this issue to the Questions column add `ready for research lead` label
+   - [ ] When you have question or suggestions about the instructions in the new issue  issue you are using to test the template, please:
+      - [ ] leave comments in that new issue, @ messaging the person who made the template in your comment
+      - [ ] move it to the Questions column
+      - [ ] add `ready for research lead` label
+      - [ ] @ message the person who made the template in Slack with a link to your comment.
+   - [ ] Review changes to the template made by author and repeat your review process until you are satisfied that it's ready for deployment
+      - [ ] Leave a comment on the template issue and the new issue you created with your sign-off (@ messaging both the template author and the Research Lead)
+      - [ ] Add the issues to the next Research team agenda (Resource 1.04) and @ messaging both the template author and the Research Lead via the team Slack channel with a link to the issue comments)
 
 #### Research lead action items
 - [ ] review the template again
