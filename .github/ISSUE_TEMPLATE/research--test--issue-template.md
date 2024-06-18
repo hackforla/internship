@@ -34,7 +34,7 @@ The person who creates this issue should use these links to add links to the res
     - [ ] Close the text editor
 - Customize the issue settings (located in right sidebar)
     - [ ] Under Labels, add the feature that matches which template you are testing (e.g., if you were testing the roadmap template you would choose feature: roadmap)
-    - [ ] Add to the project board, by, choosing the gear next to Projects, choose "Repository," and choose TWE Project Management
+    - [ ] Add to the project board, by, choosing the gear next to Projects, choose "Repository," and choose TWE; Project Board
     - [ ] Add the milestone: `06.00 Research Guidance`
     - [ ] Remove the label `Milestone: missing`
 - Customize dependencies 
