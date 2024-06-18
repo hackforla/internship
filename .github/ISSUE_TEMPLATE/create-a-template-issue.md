@@ -25,7 +25,7 @@ We need to create a template issue for [Replace NAME OF ISSUE TEMPLATE (named in
 #### Customize the issue settings (located in right sidebar)
 Change the issue settings to ensure the issue is properly categorized and easy to manage.
 - [ ] Under Assignees, assign yourself.
-- [ ] Under Projects, choose gear, choose Repository, and choose TWE Project Management.
+- [ ] Under Projects, choose gear, choose Repository, and choose TWE: Project Board.
 - [ ] Add the milestone: Project Management
 - [ ] Add a feature label specific to what the template is related to, if available.  If not clear what you should use, ask product.
 
@@ -83,7 +83,7 @@ The person who creates this issue should use these links to add links to the res
 - Customize the issue settings (located in right sidebar)
     - [ ] Under Labels, add labels for any labels identified as missing
     - [ ] Remove the corresponding missing labels
-    - [ ] Under Projects, choose gear, choose "Repository," and choose TWE Project Management.
+    - [ ] Under Projects, choose gear, choose "Repository," and choose TWE: Project Board.
     - [ ] Add the milestone: [Replace MILESTONE]
     - [ ] Add a feature label specific to what the template is related to, if available. If not clear what you should use, ask product.
 - Customize dependencies 
