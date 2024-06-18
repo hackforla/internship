@@ -22,7 +22,7 @@ The person who creates this issue should use these links to add links to the res
 - Customize the issue settings (located in right sidebar)
     - [ ] Add the milestone: 05.02.04 Development Build Microsite pages
        - [ ] Remove the corresponding missing label
-    - [ ] Under Projects, choose gear, choose "Repository," and choose TWE Project Management.
+    - [ ] Under Projects, choose gear, choose "Repository," and choose TWE: Project Board.
 - Customize dependencies 
     - [ ] If the design issue is closed/released to dev, delete dependency section
     - [ ] If the design issue is open, add the issue link to Dependencies
