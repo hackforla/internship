@@ -1,62 +1,129 @@
 ---
-name: 'Research: Research Plan'
-about: The start of a new research plan
-title: 'TWE: Create Research Plan for RP[###]'
-labels: 'feature: board / google drive / tools, feature: missing, feature: research
-  plan, milestone: missing, role: UI/UX research, size: 1pt'
+name: 'Research: Creating Research Plan'
+about:  We are creating a template for creating research plans so we can make sure all research plans are up-to-date and formatted consistently.
+title: 'TWE: IS[Replace YY]: RP[Replace 000]: Research Plan: Create'
+labels: 'feature: research plan', 'feature: research', 'Participant Type: missing', 'Research 000: missing', 'size: 1pt', 'role: UI/UX research', 'milestone: missing'
 assignees: ''
 
 ---
 
-### Dependencies
-- [ ] [Replace this with Roadmap issue #]
-- [ ] A research setup structure (wiki, GitHub labels, Google Drive, etc.) has been created and approved.
+#### Instructions for creating this issue
+The person who creates this issue should use links in the section "Resources for creating this issue" (i.e., 1.01, 1.02, etc.) to customize this issue.
+- Customize the issue
+    - [ ] Open the "Research Overview" wiki page (Resource 1.01)
+    - [ ] Choose the appropriate research roadmap or research plan folder (ie., RP###) on the wiki page 
+    - Use the information on the wiki page and in research roadmaps or research plans to customize this issue
+    - [ ] Copy and paste entire template text in this issue into text editor (i.e., "TextEdit" on **Mac**, "Wordpad" on **PC**)
+    - Use Find/Replace (**Mac:** ⌘+F or **PC**: Ctrl+F) to search for and replace the keyword strings (including text and the brackets) below with the appropriate values 
+        - Year 
+            - [ ] Find/Replace `[Replace YY]` with research year (Two digit format, ex: "22" for year "2022") 
+        - Research Plan Number
+            - [ ] Find/Replace `[Replace 000]` with the research plan number (Three digit format, ex: "001" for research plan "RP001") 
+        - Type of Participant
+            - [ ] Find/Replace `[Replace TYPE OF PARTICIPANT]` with the participant type (ex: "Intern" or "Mentor")  
+        - Research Plan Name
+            - [ ] Find/Replace `[Replace TITLE OF RESEARCH]` with the research plan name on the wiki page or the research plan folder (ex: “Intern Intake Interview” or “Mentor Exit Interview”) 
+    - [ ] Copy and paste the edited template from text editor back into this Github Issue, replacing the original text
+    - [ ] Re-check all the checkboxes above after copying and pasting the edited template
+    - [ ] Close the text editor
+    - Update the issue title
+        - [ ] Copy 
+        ```
+        TWE: IS[Replace YY]: RP[Replace 000]: Research Plan: Create
+        ```
+        - [ ] Choose "Edit" in the title section
+        - [ ] Paste what you copied into the issue title
+        - [ ] Choose "Save"
+- Customize the issue settings (located in right sidebar)
+    - [ ] Under Assignees, assign a Researcher if it has been determined. Otherwise, leave it blank.
+    - [ ] Under Labels,  choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Research: RP[Replace 000]`
+    - [ ] Under Labels, choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Participant Type: [Replace TYPE OF PARTICIPANT]`
+    - [ ] Remove the `Research 000: missing` and `Participant Type: missing` labels
+    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `Program Management`
+    - [ ] Add the milestone: choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `Research Plan Creation`
+    - [ ] Remove the label `milestone: missing`
+- Remove this section
+    - [ ] After all the checkboxes above are complete and the issue is ready to be worked on, delete all text below the "Instructions for Creating this Issue" (top heading) and above "Overview" (heading below) -- i.e., the issue assignee will never see this part 
 
 ### Overview
-We need to create a Research Plan for [NAME OF RESEARCH PLAN] so that [RESEARCH GOAL(S)].
+We need to create the RP[Replace 000]’s Research Plan doc using the research plan template so we can keep documentations consistent and up-to-date.
 
-### Action Items
-- [ ] Update this issue to make sure it's properly categorized and easy to manage
-     - [ ] Under "Projects," add to the Project Management Board (helps with Project Management overview)
-     - [ ] Add the milestone: [Research Plan Creation](https://github.com/hackforla/internship/milestone/29) (helps with prioritization)
-     - [ ] Add label of the correct research plan number associated with this research plan (e.g., Research: RP001) (helps you find related issues in the same workflow)
-     - [ ] Edit title of issue with the correct research plan number (same as prior)
-     - [ ] Edit placeholders in Overview of this issue with the relevant information in square brackets. (personalizes the issue to make it easier to read). Any place you see [replace...] replace both the text and the brackets with what it is asking for (including in the front matter above but not where it says name, but not where it says title.
-- [ ] Update this issue with the relevant Resources:
-     - [ ] Go to the Research Output Overview Page (link in Resources)
-       - [ ] find the relevant overview type wiki page. 
-       - [ ] change `[Wiki [TYPE] Research Overview Page]` in the Resources below with the correct wiki page of the research overview by type.
-     - [ ] Go to the Research Output Overview Page again
-        - [ ] find the relevant wiki page for this specific research plan. 
-        - [ ] change the `[RP__ Wiki Page]` in the Resources below with this RP's specific wiki page.
-     - [ ] Find and link the folder you are going to put your research plan in  (e.g., Research by Type>2. Intern>RP6 - Intern Intake Interviews)
-        - [ ] Go to the Google Drive's Research by Type Folder (link in Resources)
-        - [ ] Go into the relevant Type Folder (e.g., 1. Mentor, 2. Intern, etc.) 
-        - [ ] once inside, right-click on the relevant destination folder and copy the link. (e.g., RP6 - Intern Intake Interviews)
-         - [ ] Add the Google Drive link in the Resources below with the link you just copied and revise the display text to include the Research Plan number (e.g., `Google Drive RP__ Folder` to `Google Drive RP008 Folder`)
-- [ ] Create the Research Plan Document.
-     - [ ] Make a new document using the TWE Research Plan template (link in Resources). Follow the instructions in the How To Write a Research Plan guide (link in Resources) and mark your progress in this issue.
-     - [ ] Move your document from "My Drive" to the shared drive internship folder of this specific RP.
-     - [ ] Name your document to be called "TWE: RP___ : [TITLE OF RESEARCH] Research Plan".
-     - [ ] Update the document with the relevant information in accordance with the research roadmap document (found on the Research Overview Page).
-     - [ ] Update the Table of contents (page 2) when you are finished with the document.
-- [ ] Meet and sign-off research plan document with UX Research lead (by adding it to the research team meeting agenda).
-- [ ] Update RP Wiki Page with any changes or corrections.
-- [ ] Once research lead has signed off, add it to the PM/Research lead agenda
-- [ ] sign-off by PM 
-- [ ] Does this issue have any dependency checkboxes in the action items here?
-   - [ ] if yes, remove dependencies that are listed below (issues that are waiting on this issue to be completed.  Sometimes they have already been made and sometimes they yet to be made).
-       - [ ] close this issue
-   - [ ] if no, check to see if the follow-up issues have already been made (see related structure issue).  If new issues have not been made, then apply label `ready for research lead` and define what needs to be done in a comment below
-      - [ ] close the issue
-      - [ ] move to `Question/Review` Column
+During these tasks you will be asked to add link to the Resources/Instructions section, and that section is at the bottom of this issue (go view it now).
+
+#### Customize Resource Links
+- Customize Resource for Wiki Page Link
+  - [ ] Go to the wiki page: Research Output Overview (Resources # 1.01)
+  - [ ] Open relevant wiki page for RP[Replace 000]
+  - [ ] Copy the link for the RP[Replace 000] wiki page in your browser.
+  - [ ] In Resource # 2.01, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
+  - [ ] Choose "Update comment" in Github and make sure all the checkboxes above have been checked <img width="100" alt="Screenshot 2023-02-21 at 6 47 15 PM" src="https://user-images.githubusercontent.com/57029070/220508425-5d0c0a1b-ef87-4ef2-a683-d4a21d5b2672.png">
+- Customize Resource for [Replace TYPE OF PARTICIPANT]'s Research Roadmap doc
+   - [ ] Choose the "Research by Participant Type" folder on the shared Google Drive (Resources  # 1.02)
+   - [ ] Choose `[Replace TYPE OF PARTICIPANT]` folder
+   - [ ] Locate `TWE: Research Roadmap: [Replace TYPE OF PARTICIPANT]` Google doc in the folder
+   - [ ] Right-click on the `TWE: Research Roadmap: [Replace TYPE OF PARTICIPANT]` Google doc
+   - [ ] Choose "Get Link"
+   - [ ] Choose "Copy link" and "Done"
+   - [ ] In Resource # 2.02, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
+   - [ ] Choose "Update comment" in Github and make sure all the checkboxes above have been checked
+- Customize Resource for this Research Plan's Google Drive folder
+   - [ ] Choose the "Research by Participant Type" folder on the shared Google Drive (Resources  # 1.02) 
+   - [ ] Choose `[Replace TYPE OF PARTICIPANT]` folder
+   - [ ] Right-click on the RP[Replace 000] folder 
+   - [ ] Choose "Get Link"
+   - [ ] Choose "Copy link" and "Done"
+   - [ ] In Resource # 2.03, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
+   - [ ] Choose "Update comment" in Github and make sure all the checkboxes above have been checked
+- Customize Resource for RP[Replace 000]’s Research Plan Google doc
+   - [ ] Open the template "TWE: Template: Research Plan" (Resources # 1.03)
+   - [ ] Choose the "USE TEMPLATE" button to save it to your own drive
+   - Create the file name by following the steps:
+   - [ ] Copy the text below
+    ```
+    TWE: IS[Replace YY]: RP[Replace 000]: [TITLE OF RESEARCH] Research Plan
+     ```
+   - [ ] Choose "File" > "Rename", and paste the text you copied into the top field of the Google Doc to rename the file <img width="700" alt="Screenshot 2023-04-25 at 5 17 16 PM" src="https://user-images.githubusercontent.com/57029070/234444415-3a4039ad-b7c4-4630-8bc5-c602347ebd95.png">
+   - [ ] Highlight the texts of the title on the first page of the Google Doc <img width="700" alt="Screenshot 2023-04-25 at 5 16 45 PM" src="https://user-images.githubusercontent.com/57029070/234444377-f3bef09a-5d4e-4b71-87cc-497e225a31df.png">
+        - [ ] Paste the texts you copied to replace the original title of the Google doc cover page
+   - [ ] Choose "File" and "Move" to move the file out of your drive and into the shared drive > Internships > internships > Research > 1. Research by participant type > [Replace TYPE OF PARTICIPANT] > RP[Replace 000]
+   - [ ] Choose "Share" in the new research plan Google doc
+   - [ ] Choose "Copy link" and "Done"
+   - [ ] In Resource # 2.04, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
+   - [ ] Choose "Update comment" in Github and make sure all the checkboxes above have been checked
+
+#### Create the Research Plan 
+- Complete each section of the research plan template Google doc with information gathered from Resources # 2.01 to # 2.03
+  - [ ] Background
+  - [ ] Product Goals and Metrics
+  - [ ] Research Questions and Objectives
+  - [ ] Participants
+  - [ ] Research Assumption
+  - [ ] Research Methods
+  - [ ] Data Analysis
+  - [ ] Timeline
+  - [ ] Resources
+  - [ ] Notes
+  - [ ] Appendix  
+- [ ] Create the Table of contents (page 2) when you are finished with the document.
+- Update the Wiki page of RP[Replace 000] with the created research plan 
+    - [ ] Go to RP[Replace 000]'s Wiki page (Resources # 2.01)
+    - [ ] Update the "Current Status" section: 
+        - [ ] Add the text `The research plan has been created. No data have been collected`
+    - [ ] Update the "Research Plan" section (under the `Assets` section):
+        - [ ] Remove the text `The research plan has not been created yet` or similar information 
+        - [ ] Add the created research plan: copy the texts and the URL in Resources # 2.04
+- [ ] Review with UX Lead
+- [ ] Product sign-off
 
 
-### Resources
-- [Wiki Research Output Overview Page](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
-- [Wiki [TYPE] Research Overview Page]
-- [RP__ Wiki Page]
-- [Google Drive Research by Type Folder](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5?usp=sharing)
-- [Google Drive RP__ Folder]
-- [TWE: Research Plan Template](https://docs.google.com/document/d/1SDW6n086PnSrrVSmPgQZWhlkz5_yC70vDvp7Lx7u0Wo/template/preview)
-- [TWE: How to Write a Research Plan](https://docs.google.com/document/d/1Cwc0w4ZPUI8989w3jU8BW2LzLK_Tl5gHdI0VxN5ej0o/edit)
+### Resources/Instructions
+#### Resources for creating this issue
+1.01 [Wiki: Research Output Overview](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
+1.02 [Google Drive Folder: Research by Participant Type](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5?usp=share_link) 
+1.03 [TWE: Template: Research Plan](https://docs.google.com/document/d/1SDW6n086PnSrrVSmPgQZWhlkz5_yC70vDvp7Lx7u0Wo/template/preview)
+
+#### Resources gathered during the completion of this issue
+2.01 [Wiki: Research Plan [Replace 000]]
+2.02 [TWE: Research Roadmap: [Replace TYPE OF PARTICIPANT]]
+2.03 [Google Drive Folder: RP[Replace 000]]
+2.04 [TWE: IS[Replace YY]: RP[Replace 000]: [TITLE OF RESEARCH] Research Plan]
