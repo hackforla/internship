@@ -1,5 +1,5 @@
 ---
-name: 'Research: Setup Structure - Research Plan'
+name: 'Research: Setup Wiki Structure - Research Plan'
 about: The prework before a new research plan
 title: 'TWE: Research Structure for [name of research]: Set up'
 labels: 'epic, feature: research, milestone: missing, p-feature: wiki, role: UI/UX
