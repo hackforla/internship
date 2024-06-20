@@ -1,6 +1,6 @@
 ---
 name: 'Research: Creating Research Plan'
-about:  We are creating a template for creating research plans so we can make sure all research plans are up-to-date and formatted consistently.
+about:  'We are creating a template for creating research plans so we can make sure all research plans are up-to-date and formatted consistently.'
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: Research Plan: Create'
 labels: 'feature: research plan', 'feature: research', 'Participant Type: missing', 'Research 000: missing', 'size: 1pt', 'role: UI/UX research', 'milestone: missing'
 assignees: ''
