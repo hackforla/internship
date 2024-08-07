@@ -1,5 +1,5 @@
 ---
-name: 'Research: Create upload form for interview recordings  '
+name: 'Research: Create Upload Form for Interview Recordings  '
 about: The process to upload interview recordings to Internship's private drive after
   the interviews are done
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
@@ -11,15 +11,6 @@ assignees: ''
 
 ---
 
-Draft of template issue for uploading interview recordings  
----
-**name:** Research: Create upload form for interview recordings  
-**about:** The process to upload interview recordings to Internship's private drive after the interviews are done
-**title:** TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recording Upload Form: Create
-**labels:** 'feature: recording transcription', 'feature: research', 'Participant Type: missing', 'Research 000: missing', 'size: 1pt', 'role: UI/UX research', 'milestone: missing', 'complexity: medium'
-**assignees:** 
-
----
 #### Instructions for creating this issue 
 The person who creates this issue should use links in the section "Resources for creating this issue" (i.e., 1.01, 1.02, etc.) to customize this issue.
 - Customize the issue
