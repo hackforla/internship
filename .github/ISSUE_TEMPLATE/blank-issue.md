@@ -2,8 +2,10 @@
 name: Blank Issue
 about: Consistent formatting make Issues concise and easy to navigate
 title: ''
-labels: 'complexity: missing, feature: missing, milestone: missing, Participant Type:
-  missing, role: missing, size: missing'
+labels: 'complexity: medium, complexity: missing, feature: missing, feature: recording
+  transcription, feature: research, milestone: missing, Participant Type: missing,
+  Research 000: missing, role: missing, role: UI/UX research, size: missing, size:
+  1pt'
 assignees: ''
 
 ---
