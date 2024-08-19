@@ -41,11 +41,14 @@ The person who creates this issue should use links in the section "Resources for
     - [ ] Under Labels,  choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Research: RP[Replace 000]`
     - [ ] Under Labels, choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Participant Type: [Replace TYPE OF PARTICIPANT]`
     - [ ] Remove the `Research 000: missing` and `Participant Type: missing` labels
-    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `Program Management`
+    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `TWE: Project Board`
     - [ ] Add the milestone: choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `Research Plan Creation`
     - [ ] Remove the label `milestone: missing`
 - Remove this section
     - [ ] After all the checkboxes above are complete and the issue is ready to be worked on, delete all text below the "Instructions for Creating this Issue" (top heading) and above "Overview" (heading below) -- i.e., the issue assignee will never see this part 
+
+### Dependency
+- [ ] The research roadmap associated with the research plan has been created (include the associated research roadmap issue number if the issue exists)
 
 ### Overview
 We need to create the RP[Replace 000]’s Research Plan doc using the research plan template so we can keep documentations consistent and up-to-date.
