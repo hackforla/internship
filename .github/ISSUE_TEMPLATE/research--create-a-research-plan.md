@@ -1,5 +1,5 @@
 ---
-name: 'Research: Creating Research Plan'
+name: 'Research: Create a Research Plan'
 about: We are creating a template for creating research plans so we can make sure
   all research plans are up-to-date and formatted consistently.
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: Research Plan: Create'

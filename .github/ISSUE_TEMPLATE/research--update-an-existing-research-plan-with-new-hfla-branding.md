@@ -41,7 +41,7 @@ The person who creates this issue should use links in the section "Resources for
     - [ ] Under Labels,  choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Research: RP[Replace 000]`
     - [ ] Under Labels, choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Participant Type: [Replace TYPE OF PARTICIPANT]`
     - [ ] Remove the `Research 000: missing` and `Participant Type: missing` labels
-    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `Program Management`
+    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `TWE: Project Board`
     - [ ] Add the milestone: choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `Research Plan Execution`
     - [ ] Remove the label `milestone: missing`
 - Remove this section
