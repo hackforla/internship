@@ -39,7 +39,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 - [ ] Under Assignees, assign yourself or another team member  
 - [ ] Under Labels, choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Participant Type: [Replace TYPE OF PARTICIPANT]`
 - [ ] Remove the `Participant Type: missing` label
-- [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `Program Management`
+- [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `TWE: Project Board`
 - [ ] Add the milestone: choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `Research Plan Create Wiki Pages` 
 - [ ] Remove the label `milestone: missing`
 

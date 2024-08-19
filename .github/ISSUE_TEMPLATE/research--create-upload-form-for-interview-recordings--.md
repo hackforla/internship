@@ -42,7 +42,7 @@ The person who creates this issue should use links in the section "Resources for
         - [ ] Choose "Save"
 - Customize the issue settings (located in right sidebar)
     - [ ] Under Assignees, assign a Researcher if it has been determined. Otherwise, leave it blank.
-    - [ ] Under Projects, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>, choose "Repository," and choose "TWE: Project Board"
+    - [ ] Under Projects, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>, choose `Repository`, and choose `TWE: Project Board`
     - [ ] Add the milestone: choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `Research Plan Execution`
     - [ ] Under Labels,  choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Research: RP[Replace 000]`
     - [ ] Under Labels, choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Participant Type: [Replace TYPE OF PARTICIPANT]`    
