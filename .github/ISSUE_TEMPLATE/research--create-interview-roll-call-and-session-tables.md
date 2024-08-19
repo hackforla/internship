@@ -1,5 +1,5 @@
 ---
-name: 'Research: Create Interview Roll Call and Session Table'
+name: 'Research: Create Interview Roll Call and Session Tables'
 about: Create a spreadsheet to track interview sessions, including interviewers, interviewees,
   customized script links, and interview date and times.
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace

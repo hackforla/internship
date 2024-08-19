@@ -1,5 +1,5 @@
 ---
-name: 'Research: Create Upload Form for Interview Recordings  '
+name: 'Research: Create Upload Forms for Interview Recordings  '
 about: The process to upload interview recordings to Internship's private drive after
   the interviews are done
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
