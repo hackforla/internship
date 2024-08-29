@@ -55,7 +55,12 @@ Create a draft of new template, which will be known as our "draft".
   - [ ] If there is no template yet
     - [ ] Put a placeholder into the` #### Resources for creating this issue`  section of the draft `[TWE: Template Issue: [Role]: [Replace ACTION VERB][Replace DIRECT OBJECT]`
 - [ ] Get sign-off by Product on the draft
-- [ ] Create the template issue on the repo if needed
+
+#### If this is for a template draft that needs testing at a later stage, please use the following handoff steps:
+- [ ] Add `feature: template creation (step 1)` to this issue
+- [ ] Once the template draft is finished, assign a team member or yourself to create testing issues 
+- [ ] Once the testings issues are completed, get sign-off by Product on the template draft
+- [ ] Create or update the template issue on the repo 
 - [ ] Add the link to the new issue template once created to resource 2.01.  Find by clicking on the **Get started** button to the right of the new template listed on [new issue page](https://github.com/hackforla/internship/issues/new/choose)
 - [ ] Update the appropriate place in the wiki for your template (see resources section)
 

@@ -3,9 +3,10 @@ name: Blank Issue
 about: Consistent formatting make Issues concise and easy to navigate
 title: ''
 labels: 'complexity: medium, complexity: missing, feature: missing, feature: recording
-  transcription, feature: research audits, milestone: missing, Participant Type: missing,
-  Research 000: missing, role: missing, role: UI/UX research, size: missing, size:
-  1pt'
+  transcription, feature: research audits, feature: test a template (step 2a), good
+  first issue, milestone: missing, Participant Type: missing, Participant Type: TWE
+  Team Member, Research 000: missing, role: missing, role: UI/UX research, size: missing,
+  size: 1pt, size: 3pt, time sensitive'
 assignees: ''
 
 ---
