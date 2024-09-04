@@ -59,7 +59,7 @@ The person who creates this issue should know which template draft needs to be t
     - [ ] Add `()` at the end of Resources 1.01 of this new issue with no space after`]`
     - [ ] Paste the comment link you just copied inside the `()` at the end of Resources 1.01 so it becomes a hyperlink
     - [ ] Check the rest of the `Resources for creating this issue` section to make sure the wording make sense and the links work
-- [ ] Add `status: template testing (step 2b)` label to the create template draft issue (which is the issue associated with Resources 1.01)
+- [ ] Add `feature: template testing (step 2b)` label to the create template draft issue (which is the issue associated with Resources 1.01)
 - Remove this section
     - [ ] Delete this section when all the checkboxes above are complete (i.e., the issue assignee will never see this part)
     - Depending on your role, please do the following:
@@ -103,7 +103,7 @@ We expect that the template you are testing will need some improvement and the f
    - Add all the labels associated with the template to be tested in the new issue you just submitted
       - [ ] Under Labels, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>
       - [ ] Select each label you previously located from the template to be tested
-   - [ ] Add `status: template test (step 3)` label to the new issue you just submitted
+   - [ ] Add `feature: template test (step 3)` label to the new issue you just submitted
 - Add new issue to Project Board
    - [ ] Under Projects, choose gear <img src="https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png" width=25px>, choose `Repository`, and choose `TWE: Project Board`
    - [ ] Under `TWE: Project Board`, choose the down arrow and change the status to `In Progress`
