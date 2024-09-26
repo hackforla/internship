@@ -1,7 +1,6 @@
 ---
 name: 'Research: Create or Update Research Roadmap Details'
-about: structure your template issue to be consistent with our other template issues
-  in research roadmap creation or updates
+about: Develop a consistent structure in research roadmap creation or updates
 title: 'TWE: Research: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] Research Roadmap:
   Create/Update'
 labels: 'complexity: medium, feature: research, feature: roadmap, milestone: missing,
