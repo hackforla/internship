@@ -1,5 +1,5 @@
 ---
-name: 'Design System: Add Microsite [COMPONTENT NAME] URL to Figma'
+name: 'Design: Add Microsite URL to Design System in Figma'
 about: helps you structure your template issue to be consistent with our other template
   issues in for adding the Microsite URL to Figma
 title: 'TWE: Template Issue: Design System: Add Microsite to URL to Figma'
