@@ -2,8 +2,8 @@
 name: 'Design: Add Microsite URL to Design System in Figma'
 about: helps you structure your template issue to be consistent with our other template
   issues in for adding the Microsite URL to Figma
-title: 'TWE: Template Issue: Design System: Add Microsite [COMPONENT NAME] URL to
-  Design System in Figma'
+title: 'TWE: Design System: Add Microsite [COMPONENT NAME] URL to Design System in
+  Figma'
 labels: 'complexity: small, feature: design system, milestone: missing, Participant
   Type: TWE Team Member, PBV: design, role: UI/UX design, size: 0.25pt'
 assignees: ''
