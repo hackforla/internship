@@ -2,8 +2,8 @@
 name: "[Depreciated] Research: Create Roadmap Details"
 about: Updating details of an existing roadmap
 title: 'TWE: Research: Create Roadmap Details for RP[###]'
-labels: 'feature: research, feature: roadmap, milestone: missing, role: UI/UX research,
-  size: 1pt'
+labels: 'feature: research audits, feature: roadmap, milestone: missing, role: UI/UX
+  research, size: 1pt'
 assignees: ''
 
 ---
