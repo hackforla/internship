@@ -1,5 +1,5 @@
 ---
-name: 'Research: Create/Update a Research Roadmap'
+name: 'Research: Create or Update a Research Roadmap'
 about: Create or update a research roadmap document for a participant type or any
   research plan
 title: 'TWE: Research: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] Research Roadmap:
