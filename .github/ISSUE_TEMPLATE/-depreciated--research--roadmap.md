@@ -1,5 +1,5 @@
 ---
-name: 'Research: Roadmap'
+name: "[Depreciated] Research: Roadmap"
 about: The start of a new roadmap
 title: 'TWE: Create Research Roadmap [name of type]'
 labels: 'feature: research, feature: roadmap, milestone: missing, role: UI/UX research,
