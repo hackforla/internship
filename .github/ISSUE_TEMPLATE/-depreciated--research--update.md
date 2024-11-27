@@ -1,5 +1,5 @@
 ---
-name: 'Research: Update'
+name: "[Depreciated] Research: Update"
 about: Guides you through updating the wiki with the research project info
 title: 'Update [Replace with RP and the number e.g., RP008]: [name of research]'
 labels: 'feature: research audits, role: UI/UX research, size: 1pt'
