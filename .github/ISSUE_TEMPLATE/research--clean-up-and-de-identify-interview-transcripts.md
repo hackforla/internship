@@ -12,7 +12,7 @@ assignees: ''
 
 **name:** Research: Clean Up and De-identify Interview Transcripts  
 **about:** The process to clean up and de-identify interview transcripts  
-**title:** TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: De-identify: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
+**title:** TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
 **labels:** 'feature: recording transcription', 'feature: research', 'Participant Type: missing', 'Research 000: missing', 'size: 1pt', 'role: UI/UX research', 'milestone: missing'
 **assignees:** 
 
