@@ -2,7 +2,7 @@
 name: 'Research: Clean Up and De-identify Interview Transcripts'
 about: The process for cleaning up and de-identifying interview transcripts
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
-  TYPE OF INTERVIEW] Interview Recordings: De-identify: [Replace TYPE OF PARTICIPANT]
+  TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT]
   [Replace PARTICIPANT NUMBER]'
 labels: 'feature: recording transcription, feature: research, milestone: missing,
   Participant Type: missing, Research 000: missing, role: UI/UX research, size: 1pt'
@@ -45,7 +45,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - Update the issue title 
         - [ ] Copy 
         ```
-        TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: Transcribe: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
+        TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
         ``` 
          - [ ] Choose "Edit" in the title section
         - [ ] Paste the text you copied into the issue title
