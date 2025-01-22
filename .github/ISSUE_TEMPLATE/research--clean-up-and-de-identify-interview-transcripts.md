@@ -2,8 +2,8 @@
 name: 'Research: Clean Up and De-identify Interview Transcripts'
 about: The process for cleaning up and de-identifying interview transcripts
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
-  TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT]
-  [Replace PARTICIPANT NUMBER]'
+  TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF
+  PARTICIPANT] [Replace PARTICIPANT NUMBER]'
 labels: 'feature: recording transcription, feature: research, milestone: missing,
   Participant Type: missing, Research 000: missing, role: UI/UX research, size: 1pt'
 assignees: ''
@@ -195,9 +195,9 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - [ ] Watch the videos in Resources # 1.04.02 as they walk you through the basics on how to clean up and de-identify the transcript so we can stay consistent in this process
     - [ ] Read Resources # 1.04.03 and 1.04.04 for more best practices to clean up and de-identify an interview transcript
     - [ ] Follow the following guidelines on the transcript formatting:
-        - [ ] Use the 'in-line' format as seen [here in Intern 001's transcript](https://docs.google.com/document/d/1C8-qEAot7Sw5rhpfuplP0D0SLxypdChUigC1u7LCWJA/edit)
+        - [ ] Use the 'in-line' format as seen [here in RP012 Intern 008's transcript](https://docs.google.com/document/d/1yE3M29L0EvjsgawxA6QTijM3diLQpviT-RSk2WgGdM4/edit?usp=sharing)
         - [ ] Use 6 digit format for all the timestamps, for example, 01:01:01 as hour one/minute one/second one
-        - [ ] Use "UXR ###" and "Intern ###" throughout the transcript to indicate the interviewer and interviewee. See an example [here in Intern 001's transcript](https://docs.google.com/document/d/1C8-qEAot7Sw5rhpfuplP0D0SLxypdChUigC1u7LCWJA/edit).
+        - [ ] Use "UXR ###" and "Intern ###" throughout the transcript to indicate the interviewer and interviewee. See an example [here in RP012 Intern 008's transcript](https://docs.google.com/document/d/1yE3M29L0EvjsgawxA6QTijM3diLQpviT-RSk2WgGdM4/edit?usp=sharing).
             - If there were other people recorded on the transcript, name the unknown person based on the interview set-up or context, such as Program Manager, Notetaker, etc. If you are not sure what to name them, ask leads on the project for clarification.
         - [ ] If there are other numerical values in the transcript other than the timestamps, UXR ###, and Intern ###, transcribe them using texts instead of numbers so we can easily scan the transcript. For example, if a time such as '6:30' is mentioned in the interview, type out 'six thirty' when cleaning up the transcript. Another example is if the interviewee mentioned he mainly sought help from '3 other peers', type out 'three' instead of using the number '3'.
 
