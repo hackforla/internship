@@ -173,7 +173,8 @@ Another tip is to use split browser windows side by side when working on any Git
 
 
 #### Review and hand off
-- [ ] Review with UXR Leads to make sure the transcription is done properly
+- [ ] Review with UXR Leads to make sure the transcription is done properly (by moving this issue into the question column, and adding the label: `ready for research lead`)
+   - [ ] Research Lead has reviewed and released
 - [ ] The assignee checks in with UXR Lead to create new issues for cleaning up and de-identifying the transcripts if needed
 - [ ] UXR Lead or PM removes the assignee from the Internship - PII's "My Drive" when closing the issue if the assignee does not need to access the Internship - PII's "My Drive" any longer
 - [ ] Product sign-off
