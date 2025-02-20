@@ -1,6 +1,6 @@
 ---
 name: 'Research: Clean Up and De-identify Interview Transcripts'
-about: The process for cleaning up and de-identifying interview transcripts
+about: 'The process for cleaning up and de-identifying interview transcripts'
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
   TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF
   PARTICIPANT] [Replace PARTICIPANT NUMBER]'
