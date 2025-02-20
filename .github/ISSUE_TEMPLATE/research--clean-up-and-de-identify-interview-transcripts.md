@@ -44,9 +44,9 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - [ ] Close the text editor
     - Update the issue title 
         - [ ] Copy 
-        ```
-        TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
-        ``` 
+            ```
+            TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
+            ``` 
          - [ ] Choose "Edit" in the title section
         - [ ] Paste the text you copied into the issue title
         - [ ] Choose "Save"
