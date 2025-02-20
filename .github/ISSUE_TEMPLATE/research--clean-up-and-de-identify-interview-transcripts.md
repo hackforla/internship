@@ -237,14 +237,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - [ ] Focus on punctuation, readability, and formatting
     - [ ] One recommendation is to install LanguageTool Chrome Extension (see Resources 1.05) to clean up the punctuation and verbal ticks in the transcript. But no need to correct grammatical mistakes made by interviewers and interviewees.
 
-- When you're satisfied that the transcript is completely de-identified and cleaned up, create a new copy and save it into the shared Research folder
-    - [ ] Make a new copy of the transcript by selecting "File" and "Make a copy". This is to make sure that the new version of the Google Doc does not include any editing history or PII. 
-    - [ ] "Copy document" window pops up
-    - [ ] In the "Name" text box, delete the "Copy of To be de-identified-" text at the beginning of the file name
-    - [ ] Copy 
-    ```
-    De-identified Interview Transcript-
-   ```
+
     - [ ] Paste the text you just copied to the beginning of the file name in the "Name" text box
         - The new file name should be formatted like "De-identified Interview Transcript-RP[Replace 000]-UX Researcher Abbreviation###-[Replace TYPE OF PARTICIPANT] Abbreviation###"
         - An example: "De-identified Interview Transcript-RP006-U007-I001" 
