@@ -172,9 +172,9 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
         1. Choose "Make a copy" 
         1. In the Name text box, delete `Copy of ` from the file name     
         1. Copy 
-        ```
-        To be de-identified-
-        ``` 
+            ```
+            To be de-identified-
+            ``` 
         1. Paste what you copied into the beginning of the file name text box 
             1. The new file name should be formatted like "To be de-identified-RP[Replace 000]-UX Researcher Abbreviation###-[Replace TYPE OF PARTICIPANT] Abbreviation###"
             1. An example: "De-identified Interview Transcript-RP006-U007-I001" 
