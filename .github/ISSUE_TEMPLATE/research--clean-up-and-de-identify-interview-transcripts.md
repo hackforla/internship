@@ -242,9 +242,9 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - [ ] "Copy document" window pops up
     - [ ] In the "Name" text box, delete the "Copy of To be de-identified-" text at the beginning of the file name
     - [ ] Copy 
-    ```
-    De-identified Interview Transcript-
-   ```
+        ```
+        De-identified Interview Transcript-
+        ```
     - [ ] Paste the text you just copied to the beginning of the file name in the "Name" text box
         - The new file name should be formatted like "De-identified Interview Transcript-RP[Replace 000]-UX Researcher Abbreviation###-[Replace TYPE OF PARTICIPANT] Abbreviation###"
         - An example: "De-identified Interview Transcript-RP006-U007-I001" 
