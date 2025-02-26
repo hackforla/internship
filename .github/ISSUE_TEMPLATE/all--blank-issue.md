@@ -1,5 +1,5 @@
 ---
-name: Blank Issue
+name: 'All: Blank Issue'
 about: Consistent formatting make Issues concise and easy to navigate
 title: ''
 labels: 'complexity: missing, feature: missing, milestone: missing, Participant Type:

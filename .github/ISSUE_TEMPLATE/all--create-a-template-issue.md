@@ -1,5 +1,5 @@
 ---
-name: Create a template issue
+name: 'All: Create a template issue'
 about: This issue helps you structure your template issue to be consistent with our
   other template issues
 title: 'TWE: Create Template Issue: [name of template]'

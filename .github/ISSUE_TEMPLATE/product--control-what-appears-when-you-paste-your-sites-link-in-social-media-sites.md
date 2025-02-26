@@ -1,5 +1,6 @@
 ---
-name: Control what appears when you paste your sites link in social media sites
+name: 'Product: Control what appears when you paste your sites link in social media
+  sites'
 about: Add Open Graph Markup tags to header
 title: Control what appears when you paste your sites link in social media sites
 labels: enhancement, question
