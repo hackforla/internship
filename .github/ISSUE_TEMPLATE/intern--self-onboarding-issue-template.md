@@ -1,5 +1,5 @@
 ---
-name: Create Self Onboard Issue
+name: 'Intern: Self Onboarding Issue Template'
 about: This is a template for the interns to onboard themselves to our resources
 title: 'TWE: Self Onboard [YOUR NAME]'
 labels: 'role: intern'

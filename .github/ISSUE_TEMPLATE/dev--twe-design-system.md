@@ -1,5 +1,5 @@
 ---
-name: 'TWE Design System: Code'
+name: 'Dev: TWE Design System'
 about: Issues for coding the TWE Design System
 title: 'TWE Design System: Code'
 labels: 'complexity: small, feature: design system, role: engineering, size: 1pt'

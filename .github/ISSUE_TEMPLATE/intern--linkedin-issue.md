@@ -1,5 +1,5 @@
 ---
-name: Linkedin Issue
+name: 'Intern: LinkedIn Issue'
 about: LinkedIn
 title: 'TWE: IS22 LinkedIn Profile Checklist [YOURNAME]'
 labels: 'role: intern'

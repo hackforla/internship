@@ -1,5 +1,5 @@
 ---
-name: LinkedIn Setup Checklist
+name: 'Intern: LinkedIn Setup Checklist'
 about: An issue where all Interns can track their linkedin progress
 title: 'LinkedIn Setup Checklist: [INSERT YOUR NAME HERE]'
 labels: ''
