@@ -270,7 +270,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 - [ ] Review with UX Lead
 - [ ] UX Lead assigns another team member to conduct a peer review using a saved reply template if needed
 - [ ] Product sign-off
-- [ ] UXR Lead delete the .txt and Google Doc transcripts that contains PII from the internship-PII drive after the de-identified transcript gets approved
+- [ ] UXR Lead delete the .txt and all extra Google Doc transcripts that contains PII from the internship-PII drive after the de-identified transcript gets approved
 - [ ] UXR Lead or PM removes the assignee from the Internship - PII's My Drive when closing the issue if the assignee no longer needs to access the PII drive.
 
 
