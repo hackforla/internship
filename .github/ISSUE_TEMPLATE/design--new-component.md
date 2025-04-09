@@ -1,14 +1,16 @@
 ---
-name: Design Lead to Create New Component Issues
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: 'Design: New Component'
+about: Use this issue to define a new component for the design system
+title: 'TWE Design System Components: [NAME OF COMPONENT]'
+labels: 'complexity: missing, feature: design system, milestone: missing, Participant
+  Type: TWE Team Member, role: UI/UX design, size: missing'
 assignees: ''
 
 ---
 
 Setting up this issue
 Customize the following
+- add the milestone 05.01.01 TWE Design System - Design
 - 1.01 define which states you want used
 - 1.02 define which configurations you want used
 - 1.03 Go to link provided, find appropriate menu item and replace link
