@@ -19,7 +19,7 @@ Customize the following
 IF NO, DELETE 1.04.02 FROM THE RESOURCES AND THE CHECKBOX IN THE ACTION ITEMS.
 
 ### Overview
-We need to create Pagination for the TWE design system for the future website development & handoff.
+We need to create [NAME OF COMPONENT] for the TWE design system for the future website development & handoff.
 
 #### Details
 This issue had been worked on before we decided to update with M3 and other requirements.  You can see the prior work on resource 1.04.01 in the section called NEED TEMPLATE REVISION.
