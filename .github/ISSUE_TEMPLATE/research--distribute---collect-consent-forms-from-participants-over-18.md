@@ -1,5 +1,5 @@
 ---
-name: " Research: Distribute & Collect Consent Forms from Participants over 18"
+name: 'Research: Distribute & Collect Consent Forms from Participants over 18'
 about: The process of distributing and collecting consent forms from participants
   over 18 years old.
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] Informed
