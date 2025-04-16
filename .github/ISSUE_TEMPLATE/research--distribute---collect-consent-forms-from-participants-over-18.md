@@ -11,10 +11,10 @@ assignees: ''
 ---
 
 #### This template has not been tested before the deployment. If you are using this template, that means you are the first person to test this template. Please follow the instructions to set up the template test.
-- Once this issue gets created, update the issue title with [TEST] at the beginning of the issue title;
-- Assign yourself to this issue; 
-- Add label "feature: template test (step 3)" to this issue;
-- Go to "Icebox" column to take out issue #716, and assign yourself to issue #716 
+- [ ] Once this issue gets created, update the issue title with [TEST] at the beginning of the issue title;
+- [ ] Assign yourself to this issue; 
+- [ ] Add label "feature: template test (step 3)" to this issue;
+- [ ] Go to "Icebox" column to take out issue #716, and assign yourself to issue #716 
 
 #### Instructions for creating this issue
 **Resources/Instructions:** This section is at the bottom of this issue (scroll to the bottom to view it now). The person who creates this issue should use links in the section "Resources for creating this issue" (i.e., 1.01, 1.02, etc.) to customize this issue.
