@@ -14,7 +14,9 @@ assignees: ''
 - [ ] Once this issue gets created, update the issue title with [TEST] at the beginning of the issue title;
 - [ ] Assign yourself to this issue; 
 - [ ] Add label "feature: template test (step 3)" to this issue;
-- [ ] Go to "Icebox" column to take out issue #716, and assign yourself to issue #716 
+- [ ] Go to "Icebox" column to locate issue #716, and assign yourself to issue #716 
+- [ ] Move issue #716 into the "In progress" column
+- [ ] Remove the "dependency" label in issue #716
 
 #### Instructions for creating this issue
 **Resources/Instructions:** This section is at the bottom of this issue (scroll to the bottom to view it now). The person who creates this issue should use links in the section "Resources for creating this issue" (i.e., 1.01, 1.02, etc.) to customize this issue.
