@@ -5,7 +5,7 @@ about: helps you structure your template issue to be consistent with our other t
 title: 'TWE: Design System: Add Microsite [COMPONENT NAME] URL to Design System in
   Figma'
 labels: 'complexity: small, feature: design system, milestone: missing, Participant
-  Type: TWE Team Member, PBV: design, role: UI/UX design, size: 0.25pt'
+  Type: TWE Team Member, role: UI/UX design, size: 0.25pt'
 assignees: ''
 
 ---
