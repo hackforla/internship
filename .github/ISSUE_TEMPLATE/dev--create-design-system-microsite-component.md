@@ -44,7 +44,7 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
 ### Action Items
 - [ ] Review the Microsite page mockup you will be working from (Resource 1.01)
 - [ ] Name the Branch you create [Replace with NAME OF COMPONENT]
-- [ ] Determine if any JS or CSS hacks need to be included to style this component (see Resource 1.02 for examples of prior hacks).  If you need to use a hack, don't forget to update the examples.
+- [ ] Determine if any JavaScript needs to be included to style this component (see Resource 1.02 for examples of included JavaScript).  If you do need to use JS, don't forget to update the wiki page
 - [ ] Include necessary files in the `/docs` folder (Resource 1.03) and project config file `mkdocs.yml` (Resource 1.04)
 - [ ] Determine what variables are needed for this component and add them to variables.scss (Resource 1.05)
 - [ ] Code Microsite component page
@@ -69,7 +69,7 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
 - 1.01 Design Reference
    -  [Figma, [Replace with NAME OF COMPONENT] Microsite page]
    - [Design Systems Figma](https://www.figma.com/file/TTRS2FWXsrymHYpPJL1IdH/Internship-Team-Main-file?type=design&node-id=2%3A45&mode=design&t=jgMN8QdoLnh9F7MT-1)
-- 1.02 WIKI: [Design system microsite JavaScript and sass hacks](https://github.com/hackforla/internship/wiki/Design-system-microsite-javascript-and-sass-hacks.md)
+- 1.02 WIKI: [Design system microsite JavaScript](https://github.com/hackforla/internship/wiki/Design-system-microsite-javascript)
 - 1.03 MKdocs folder: [/docs](https://github.com/hackforla/internship-website-design-system/tree/main/docs) on repo
 - 1.04 MDdocs config file: [mkdocs.yml](https://github.com/hackforla/internship-website-design-system/blob/main/mkdocs.yml) on repo
 - 1.05 variables file: [/docs/components/sass/abstracts/_variables.scss](https://github.com/hackforla/internship-website-design-system/tree/main/docs/components/sass/abstracts) on repo
