@@ -2,7 +2,7 @@
 name: 'Dev: Create Design System Microsite Component'
 about: This issue helps you structure your template issue to be consistent with our
   other template issues in Design System Component Creation
-title: 'WE: Dev: Design System: Create [Replace with NAME OF COMPONENT]'
+title: 'TWE: Dev: Design System: Create [Replace with NAME OF COMPONENT]'
 labels: 'complexity: medium, feature: board / google drive / tools, feature: design
   system, milestone: missing, Participant Type: TWE Team Member, role: engineering,
   size: 1pt'
@@ -51,7 +51,7 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
    - file locations
      - [ ] md file goes into the /docs folder (Resource 1.03) 
      - [ ] SASS file goes into the /docs/components/sass/components folder (Resource 1.06)
-   - [ ] Create variables in sass sheet as necessary, add color varialbles with name determined by HTML Color Codes (Resource 1.07, 1.08)
+   - [ ] Create variables in sass sheet as necessary, add color variables with name determined by HTML Color Codes (Resource 1.07, 1.08)
    - [ ] Create component classes and states within the page
    - [ ] Include Files via code snippets to create the code section (see Resource 1.09 for details)
    - [ ] Add links to SASS and Markdown files below the code (see examples in Resource 1.10)
