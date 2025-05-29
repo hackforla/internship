@@ -38,7 +38,7 @@ The person who creates this issue should use links in the section "Resources for
     - Update the issue title
         - [ ] Copy 
         ```
-        TWE: IS[Replace YY]: RP[Replace 000]: Research: Update Wiki Page
+        TWE: IS[Replace YY]: RP[Replace 000]: [Replace TITLE of RESEARCH]: Update Wiki Page
         ```
         - [ ] Choose "Edit" in the title section
         - [ ] Paste what you copied into the issue title
