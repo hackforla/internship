@@ -57,6 +57,8 @@ The person who creates this issue should use links in the section "Resources for
 ### Overview
 We need to review and update the wiki page for [Replace TITLE of RESEARCH] so that we can stay organized, consistent, and up-to-date on the wiki.
 
+**Please only check off the action items as you complete them. No need to check off the action items if you don't find them applicable or won't be able to complete. Doing Wiki page updates can happen anytime throughout the research process, so depending on the status of each research plan, some action items might not apply, thus no need to check off the ones that you can't accomplish.**
+
 <b>Resources/Instructions </b>: This section is at the bottom of this issue (scroll to the bottom to view it now). You will be asked to add links to this section while completing the issue.
 
 ### Action Items
@@ -66,21 +68,21 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
     - [ ] Go to the wiki page: Research Output Overview (Resources # 1.01)
     - [ ] Scroll down to the section ```Research by Plan Number```  
     - [ ] Open the hyperlink ```Research Plans, sorted by number``` (Resources # 1.02)
-    - [ ] Locate the Research Plan you attempt to update the wiki page, often titled as ```Research Plan [Replace 000]: [Replace TITLE of RESEARCH]```
+    - [ ] Locate the Research Plan wiki page that you need to update
     - [ ] Open the wiki page of `Research Plan [Replace 000]`
     - [ ] Copy the URL of the wiki page of `Research Plan [Replace 000]`
-    - [ ] Return to the issue you are working on
+    - [ ] Return to this issue you are working on
     - [ ] Choose three dots <img width="100" alt="Screenshot 2024-06-26 at 3 25 09 PM" src="https://github.com/hackforla/internship/assets/57029070/a9466495-abaa-4c87-9a1c-096e06ac93e8"> and `Edit` in this comment
     - [ ] In Resource # 2.01, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
-   - [ ] Choose "Update comment" in Github and make sure all the checkboxes above have been checked
+   - [ ] Choose "Save" in Github and make sure all the checkboxes above have been checked
 - Customize Resource for the Research Plan's folder on Google Drive
     - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name (Resources # 1.03)
     - [ ] Go to the research plan folder of `RP[Replace 000]`
     - [ ] Right-click on the RP[Replace 000] folder 
-    - [ ] Choose "Get Link"
+    - [ ] Choose "Share" and "Get link"
     - [ ] Choose "Copy link" and "Done"
     - [ ] In Resource # 2.02, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
-    - [ ] Choose "Update comment" in Github and make sure all the checkboxes above have been checked
+    - [ ] Choose "Save" in Github and make sure all the checkboxes above have been checked
 
 #### Review files in RP[Replace 000] folder on Google Drive
 - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
@@ -106,6 +108,14 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
  - Check all issues related to this research plan 
      - [ ] Check issue labels
         - [ ] Choose Resources # 1.04 
+        - [ ] Choose the down arrow next the ```Labels``` filters
+        - [ ] Select ```Research: RP[Replace 000]``` label using the checkbox
+        - [ ] Left click anywhere on the webpage so the issues gets filtered with the research plan number filter 
+        - [ ] Go over all issues related to ```RP[Replace 000]``` (both open and closed)
+        - [ ] Check the consistency in the language describing the research plan (e.g., "intake" vs. "onboarding")
+            - [ ] Correct any inconsistency in description language
+        - [ ] Choose the down arrow next the ```Labels``` filters again
+        - [ ] Uncheck the ```Research: RP[Replace 000]``` label to remove the filter
         - [ ] Go over all issues related to ```RP[Replace 000]``` (both open and closed)
         - [ ] Check the consistency in the language describing the research plan (e.g., "intake" vs. "onboarding")
             - [ ] Correct any inconsistency in description language
@@ -113,15 +123,27 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
             - [ ] Search all issues related to ```RP[Replace 000]``` by adding ```RP[Replace 000]``` in the search box after ```is:issue state:open```<img width="1258" alt="Image" src="https://github.com/user-attachments/assets/a06b5273-e8f6-404e-8005-1ea2394463f5" />
             - [ ] Add the correct label if the research plan number label is missing
             - [ ] Correct any incorrect research plan number label
+    - [ ]  Update ```Label``` under ```All Issues``` section on the wiki page (Resources # 2.01)
+        - [ ] Choose Resources # 1.04 
+        - [ ] Choose the down arrow next the ```Labels``` filters
+        - [ ] Select ```Research: RP[RP000]``` label using the checkbox
+        - [ ] Left click anywhere on the webpage so the issues gets filtered with the research plan number filter
+        - [ ] Copy the URL in the browser  
+        - [ ] Go to the ```RP[RP000]``` wiki page (Resources # 2.01)
+        - [ ] Choose ```Edit``` to update the wiki page
+        - [ ] Go to ```Label: [Feature: RP###]()``` under ```All Issues``` section on the wiki page
+        - [ ] Paste the URL you just copied in between the ```()``` with no space in between
+        - [ ] Update ```[Feature: RP###]``` with ```Research: RP[RP000]```
+        - [ ] Choose ```Save page``` to record the update
     - [ ] Check ```All Issues``` section on the wiki page
-        - [ ] Go back to the ```RP[Replace 000]``` wiki page (Resources # 2.01)
-        - [ ] Open the link of `Label: Research RP[Replace 000]` in the `All Issues` section
+        - [ ] Go back to the ```RP[Replace 000]``` wiki page if it is not open already (Resources # 2.01)
+        - [ ] Open the link of `Label: Research: RP[Replace 000]` in the `All Issues` section
         - [ ] Check if this link correctly identifies all issues related to this RP (both open and closed)
 - Update research outstanding tasks on wiki page
     - [ ] Update ```Outstanding Task Items``` by removing the items that have been completed and updating the status for the items that are working in progress or to be completed
     - [ ] Choose `Save page` to save any changes made 
 - Update assets section on wiki page
-    - Update the link in Type folder
+    - Update the link in `Type folder` under the `Google Drive folders` section on wiki page
         - [ ] Go to the Shared Drives > Internship > Internships > Research (Resources # 1.03)
         - [ ] Choose Research by Participant Type folder
         - [ ] Choose [Replace TYPE OF PARTICIPANT]
@@ -129,7 +151,7 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
         - [ ] Update with the name of [Replace TYPE OF PARTICIPANT] folder on wiki page
         - [ ] Paste the link you copied in `()` at the end so it becomes a hyperlink
         - [ ] Choose `Save page` to save any changes made
-    - Update the the link in RP folder
+    - Update the link in `RP folder` under the `Google Drive folders` section on wiki page
         - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
         - [ ] Copy the sharable link of ```RP[Replace 000]``` folder
         - [ ] Update the `RP###` with ```RP[Replace 000]``` on the wiki page
