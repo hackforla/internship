@@ -97,7 +97,18 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
     - [ ] Update ```Proposed Research Agenda``` 
          - [ ] Update date information for  ```Start```, ```Data Collected``` and ```End``` based on the information gathered from reviewing files in RP[Replace 000] folder on Google Drive
          - [ ] Choose `Save page` to save any changes made 
-- Update research plan details and status on wiki page    
+    - [ ] Update ```Research Roadmap (this research is a subset of this roadmap)```
+        - [ ] Go to Research Output Overview wiki page (Resources 1.01)
+        - [ ] Click on [Replace TYPE OF PARTICIPANT]'s wiki page under the section of ```Research Documents by Participant Type```
+        - [ ] Copy the URL of [Replace TYPE OF PARTICIPANT]'s wiki page
+        - [ ] Edit RP[Replace 000]'s wiki page's Research Roadmap section by updating the ```[Participant Type]``` with [Replace TYPE OF PARTICIPANT]
+        - [ ] Paste the URL of [Replace TYPE OF PARTICIPANT]'s wiki page in `()` behind [[Participant Type] Research Overview] with not space in between so it becomes a hyperlink
+        - [ ] Save the page to record the update
+        - [ ] Go to [Replace TYPE OF PARTICIPANT]'s wiki page if it is not already open
+        - [ ] Select the texts and the link under Roadmap on [Replace TYPE OF PARTICIPANT]'s wiki page
+        - [ ] Paste the texts and the link after ```Roadmap document:``` on RP[Replace 000]'s wiki page so the research roadmap document is a hyperlink
+        - [ ] Save the page to record the update
+- Update research plan details and status sections on wiki page    
     - [ ] Update ```Summary of Research```
         - [ ] Update ```Question```
         - [ ] Update ```Purpose``` 
@@ -158,13 +169,13 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
         - [ ] Paste the link you copied in `()` at the end so it becomes a hyperlink
     - Update the links under ```Research Plan``` section
         - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
-        - [ ] Find the updated research plan document, often titled as ```TWE: IS[Replace 00]:RP[Replace 000]:[Replace the TITLE of Reserach] Research Plan```
+        - [ ] Find the updated research plan document, often titled as ```TWE: IS[Replace YY]:RP[Replace 000]:[Replace the TITLE of Reserach] Research Plan```
         - [ ] Copy the sharable link of the updated research plan document
         - [ ] Update with the name and link of ```Research Plan```
         - [ ] Leave it blank if there is no research plan in the Google Drive
     - Update the links under ```Scripts```
         - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
-        - [ ] Find all updated script documents, often titled as ```TWE:IS[Replace 00]:RP[Replace 000]:[Replace TITLE of RESEARCH] Script/Form```
+        - [ ] Find all updated script documents, often titled as ```TWE:IS[Replace YY]:RP[Replace 000]:[Replace TITLE of RESEARCH] Script/Form```
         - [ ] Copy the sharable link(s) of the updated script documents
         - [ ] Update the link(s) for ```Scripts```
         - [ ] Leave it blank if there is no script in the Google Drive
@@ -176,19 +187,19 @@ We need to review and update the wiki page for [Replace TITLE of RESEARCH] so th
         - [ ] Leave it blank if there is no such assets in the Google Drive
     - Update the links under ```Synthesis``` 
         - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
-        - [ ] Find the updated synthesis documents, often titled as ```TWE:IS[Replace 00]:RP[Replace 000]:[Replace TITLE of RESEARCH] Report```
+        - [ ] Find the updated synthesis documents, often titled as ```TWE:IS[Replace YY]:RP[Replace 000]:[Replace TITLE of RESEARCH] Report```
         - [ ] Copy the sharable link of the updated synthesis document
         - [ ] Update the link for ```Synthesis```              
         - [ ] Leave it blank if there is no update in the Google Drive
     - Update the links under ```Presentation of Findings``` 
         - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
-        - [ ] Find the updated presentation documents, often titled as ```TWE:IS[Replace 00]:RP[Replace 000]:[Replace TITLE of RESEARCH] Presentation```
+        - [ ] Find the updated presentation documents, often titled as ```TWE:IS[Replace YY]:RP[Replace 000]:[Replace TITLE of RESEARCH] Presentation```
         - [ ] Copy the sharable link of the updated presentation document
         - [ ] Update the link for ```Presentation of Findings```              
         - [ ] Leave it blank if there is no update in the Google Drive
     - Update the links under ```Action Items Spreadsheet``` 
         - [ ] Go to the Shared Drives > Internship > Internships > Research > Research by Plan # and Name > RP[Replace 000] folder (Resources # 2.02)
-        - [ ] Find the updated action item spreadsheet, often titled as ```TWE:IS[Replace 00]:RP[Replace 000]Action Steps:[Replace TITLE of RESEARCH]```
+        - [ ] Find the updated action item spreadsheet, often titled as ```TWE:IS[Replace YY]:RP[Replace 000]Action Steps:[Replace TITLE of RESEARCH]```
         - [ ] Copy the sharable link of the updated action item spreadsheet
         - [ ] Leave it blank if there is no update in the Google Drive
         - [ ] Choose `Save page` to save any changes made 
