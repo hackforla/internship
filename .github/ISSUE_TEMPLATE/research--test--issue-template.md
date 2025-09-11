@@ -4,9 +4,9 @@ about: This issue takes the draft of an issue template and provides a checklist 
   see if it's ready for deployment, and if not, give feedback until it is ready to
   be made available to use
 title: 'Research: Test: Issue Template: [Replace with NAME OF TEMPLATE]'
-labels: 'feature: missing, feature: research, feature: test a template (step 2a),
-  good first issue, milestone: missing, Participant Type: TWE Team Member, role: UI/UX
-  research, size: 3pt, time sensitive'
+labels: 'complexity: small, feature: missing, feature: research, feature: test a template
+  (step 2a), milestone: missing, Participant Type: TWE Team Member, role: UI/UX research,
+  size: 1pt, time sensitive'
 assignees: ''
 
 ---
@@ -15,8 +15,8 @@ assignees: ''
 ### Draft of template issue for `Create Research Template Issue, Testing Guidance`
 **name:** TWE: Template Issue: Research: Test: Issue Template
 **about:** This issue takes the draft of an issue template and provides a checklist to see if it's ready for deployment, and if not, give feedback until it is ready to be made available to use.
-** title:** Research: Test: Issue Template: [Replace with NAME OF TEMPLATE]
-**labels:** feature: missing, feature: test a template (step 2a), status: template testing, milestone: missing, role: UI/UX research, size: 3pt', 'Participant Type: TWE Team Member', 'complexity: good first issue', 'feature: research', 'time sensitive'
+**title:** Research: Test: Issue Template: [Replace with NAME OF TEMPLATE]
+**labels:** feature: missing, feature: test a template (step 2a), milestone: missing, role: UI/UX research, size: 1pt', 'Participant Type: TWE Team Member', 'complexity: small', 'feature: research', 'time sensitive'
 **assignees:**
 
 ---
@@ -27,7 +27,6 @@ The person who creates this issue should know which template draft needs to be t
     - [ ] Select the three dots on the top right of the comment, and select "Edit"
     - [ ] Copy and paste entire template text in this issue into a text editor (ie., "TextEdit" on _Mac_, "Wordpad" on _PC_)
     - Use Find/Replace (**Mac:** ⌘+F or **PC**: Ctrl+F) to search for and replace the keyword strings (including text and the brackets) below with what the keyword or information is asking for (which will be in the create template draft issue this issue is testing)
-        - [ ] Search for `[Replace with LINK TO TEMPLATE DRAFT ISSUE COMMENT]` 
         - [ ] Search for `[Replace with DEFAULT TITLE THAT ISSUE TEMPLATE WILL HAVE]`
         - [ ] Search for `[Replace DIRECT OBJECT]`
         - [ ] Search for `[Replace with NAME OF TEMPLATE]`
@@ -48,16 +47,16 @@ The person who creates this issue should know which template draft needs to be t
         - [ ] If you are not sure of the label(s) you are adding, please leave a new comment in this issue to inform Research Leads so they could double check to ensure the appropriate labels are included 
     - [ ] Add to the project board, by choosing the gear next to Projects, choose `Repository`, and choose `TWE: Project Board`
     - [ ] Add the milestone: `06.00 Research Guidance`
-    - [ ] Remove the label `Milestone: missing`
+    - [ ] Remove the labels `Milestone: missing` and `feature: missing`
 - Customize dependencies 
     - [ ] If no dependencies, delete dependency section
     - [ ] If dependencies, add the dependencies (any existing issue or a reason that would prevent the action items from being completed)
 - Customize the `Resources for creating this issue` section at the end of this comment
     - [ ] Locate the create template draft issue that needs to be tested
-    - [ ] Locate the template draft in the comments of the issue (not the issue template in the first comment)
+    - [ ] Locate the template draft in the comments of the issue (often the second comment of the template draft issue, and **not** the issue template in the first comment)
     - [ ] Copy the comment link of the template draft 
-    - [ ] Add `()` at the end of Resources 1.01 of this new issue with no space after`]`
-    - [ ] Paste the comment link you just copied inside the `()` at the end of Resources 1.01 so it becomes a hyperlink
+    - [ ] Delete the text in Resources 1.01 as well as the brackets
+    - [ ] Paste the comment link you just copied in Resources 1.01
     - [ ] Check the rest of the `Resources for creating this issue` section to make sure the wording make sense and the links work
 - [ ] Add `feature: template testing (step 2b)` label to the create template draft issue (which is the issue associated with Resources 1.01)
 - Remove this section
