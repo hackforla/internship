@@ -265,13 +265,17 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - [ ] In Resources # 2.11, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
     - [ ] Choose "Update comment" in GitHub and make sure all the checkboxes above have been checked
  
-
-#### 
+#### Review Process
+- UXR Lead assigns another team member to conduct a peer review 
+        - [ ] Copy [the template for a peer review for cleaning up and de-identifying transcripts](https://github.com/hackforla/internship/wiki/A-Peer-Review-for-Cleaning-Up-and-De%E2%80%90identifying-Transcripts) from the wiki
+        - [ ] Paste the template in a comment in this issue
+        - [ ] Make sure the dependency section is completed
+        - [ ] Edit the peer reviewer to include the `@` syntax so the peer reviewer gets the notification
+- [ ] Peer reviewer discusses with the issue assignee on the changes needed
 - [ ] Review with UX Lead
-- [ ] UX Lead assigns another team member to conduct a peer review using a saved reply template if needed
 - [ ] Product sign-off
 - [ ] UXR Lead delete the .txt and all extra Google Doc transcripts that contains PII from the internship-PII drive after the de-identified transcript gets approved
-- [ ] UXR Lead or PM removes the assignee from the Internship - PII's My Drive when closing the issue if the assignee no longer needs to access the PII drive.
+- [ ] UXR Lead or PM removes the assignee and peer reviewer from the Internship - PII's My Drive when closing the issue if they no longer need to access the PII drive.
 
 
 ### Resources/Instructions
