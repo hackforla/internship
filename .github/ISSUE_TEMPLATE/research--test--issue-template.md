@@ -85,12 +85,14 @@ We expect that the template you are testing will need some improvement and the f
 - Create the new issue
    - [ ] Open a new blank issue template (Resource 1.02)
 - Use the template to customize the issue
-   - [ ] Paste the draft into the new issue body
-   - [ ] Replace the title with the following text
+   - [ ] Paste the draft you copied into the new issue body
+   - [ ] In the title section of the new issue, copy the following text
       ```
-      `[TEST]` 
+      [TEST] 
       ```
-   - [ ] Add the title from Resource 1.03 after the text: `[TEST]`.  This part is the title that would have been provided if the issue was made from a template instead of this testing process. 
+   - [ ] Paste what you copied into the title section 
+   - [ ] Copy the texts of the issue title from Resource 1.03 and paste what you copied after `[TEST]` in the title section. Please keep the title as it is, no replacing is needed at this step. 
+        - The issue title would have been provided if the issue was made from a deployed template instead of this testing process. Because you are testing a template draft, including `[TEST]` in the title would help distinguish it from a non testing issue.
    - [ ] Submit the new issue
 - Add Labels to the new issue
    - [ ] Locate the labels associated with the template to be tested (see Resource 1.01)
