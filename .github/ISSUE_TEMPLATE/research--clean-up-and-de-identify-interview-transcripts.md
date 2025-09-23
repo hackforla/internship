@@ -267,10 +267,10 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
  
 #### Review Process
 - UXR Lead assigns another team member to conduct a peer review 
-        - [ ] Copy [the template for a peer review for cleaning up and de-identifying transcripts](https://github.com/hackforla/internship/wiki/A-Peer-Review-for-Cleaning-Up-and-De%E2%80%90identifying-Transcripts) from the wiki
-        - [ ] Paste the template in a comment in this issue
-        - [ ] Make sure the dependency section is completed
-        - [ ] Edit the peer reviewer to include the `@` syntax so the peer reviewer gets the notification
+   - [ ] Copy [the template for a peer review for cleaning up and de-identifying transcripts](https://github.com/hackforla/internship/wiki/A-Peer-Review-for-Cleaning-Up-and-De%E2%80%90identifying-Transcripts) from the wiki
+   - [ ] Paste the template in a comment in this issue
+   - [ ] Make sure the dependency section is completed
+   - [ ] Edit the peer reviewer to include the `@` syntax so the peer reviewer gets the notification
 - [ ] Peer reviewer discusses with the issue assignee on the changes needed
 - [ ] Review with UX Lead
 - [ ] Product sign-off
