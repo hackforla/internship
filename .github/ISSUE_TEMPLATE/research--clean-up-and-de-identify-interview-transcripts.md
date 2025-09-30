@@ -284,7 +284,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 1.02 [Google Drive Folder: Research by Type](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5?usp=share_link)
 1.03* [TWE Raw Data Collection by Plan #](https://drive.google.com/drive/folders/1lvP_k4qGKD05QzbHBtIpEl4B3X7ylzoh?usp=sharing)
 1.04 Transcript Cleaning-up and De-identification Resources
-1.04.01 [Guidelines to Interviews Page 8](https://drive.google.com/open?id=19580_-BXfHPC9gTcAj35O2nzAtdNwTxp&disco=AAAA_U2KB_A)
+1.04.01 [Guidelines to Interviews Page 8-10](https://drive.google.com/open?id=19580_-BXfHPC9gTcAj35O2nzAtdNwTxp&disco=AAAA_U2KB_A)
 1.04.02 [Video folder](https://drive.google.com/drive/folders/1WPzYSrhWYluIqigjsHKpSYIhpQf7XcM5)
 1.04.03 [Cleaning Up Zoom Transcriptions for Qualitative Research](https://crdpala.org/2022/10/05/cleaning-up-zoom-transcriptions-for-qualitative-research/)
 1.04.04 [Determining Best Practice for Filler Words in Captions and Transcripts](https://blogs.vcu.edu/birdlab/2020/01/09/determining-best-practice-for-filler-words-in-captions-and-transcripts/)
