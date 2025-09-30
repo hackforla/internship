@@ -134,8 +134,8 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 
 - Customize Resource for Interview Recording Folder stored in the Internship - PII's `My Drive`
     - [ ] Log into your Google account associated with TWE project so you will be able to access the Internship - PII's 'My Drive' in the next steps
-    - [ ] Choose `TWE Interview Recordings by Plan #` folder in Internship - PII's `My drive` (linked in Resources # 1.03) 
-    - [ ] Locate the video recording folder for RP[Replace 000] inside the folder `TWE Interview Recordings by Plan #`
+    - [ ] Choose `TWE Raw Data Collection by Plan #` folder in Internship - PII's `My drive` (linked in Resources # 1.03) 
+    - [ ] Locate the video recording folder for RP[Replace 000] inside the folder `TWE Raw Data Collection by Plan #`
     - [ ] Copy the link of the video recording folder for RP[Replace 000] 
         1. Choose the three vertical dots on the right side of the folder  <img width="50" alt="Screenshot 2023-10-10 at 5 58 13 PM" src="https://github.com/hackforla/internship/assets/57029070/f8b81823-6e66-40c1-b885-881c356baa96">
         1. Choose "Share"
@@ -282,9 +282,9 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 #### Resources for creating this issue
 1.01 [Wiki: Research Output Overview](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
 1.02 [Google Drive Folder: Research by Type](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5?usp=share_link)
-1.03* [TWE Interview Recordings by Plan #](https://drive.google.com/drive/folders/1lvP_k4qGKD05QzbHBtIpEl4B3X7ylzoh?usp=sharing)
-1.04 [Guidelines to Interviews Page 8](https://drive.google.com/open?id=19580_-BXfHPC9gTcAj35O2nzAtdNwTxp&disco=AAAA_U2KB_A)
-1.04.01 [Conventions for Transcribing Interviews](https://www.utsc.utoronto.ca/~pchsiung/LAL/interviewing/conventions)
+1.03* [TWE Raw Data Collection by Plan #](https://drive.google.com/drive/folders/1lvP_k4qGKD05QzbHBtIpEl4B3X7ylzoh?usp=sharing)
+1.04 Transcript Cleaning-up and De-identification Resources
+1.04.01 [Guidelines to Interviews Page 8](https://drive.google.com/open?id=19580_-BXfHPC9gTcAj35O2nzAtdNwTxp&disco=AAAA_U2KB_A)
 1.04.02 [Video folder](https://drive.google.com/drive/folders/1WPzYSrhWYluIqigjsHKpSYIhpQf7XcM5)
 1.04.03 [Cleaning Up Zoom Transcriptions for Qualitative Research](https://crdpala.org/2022/10/05/cleaning-up-zoom-transcriptions-for-qualitative-research/)
 1.04.04 [Determining Best Practice for Filler Words in Captions and Transcripts](https://blogs.vcu.edu/birdlab/2020/01/09/determining-best-practice-for-filler-words-in-captions-and-transcripts/)
