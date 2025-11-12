@@ -256,12 +256,14 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
         1. Select "Make a copy"
         1. The copy of the file is generated in a new browser
 
-- Update the de-identified transcript URL in the Recording and Transcription tracking sheet (Resources # 2.03) and Resource # 2.11  
+- Update the de-identified transcript URL in the Recording and Transcription tracking sheet (Resources # 2.03), De-identified Participants List (Resources # 2.04), Participants List (Resources # 2.07), and in Resource # 2.11
     - [ ] Copy the link of the de-identified transcript in the shared drive
         1. Choose "Share" 
         1. Choose "Copy Link"
     - [ ] Open the tracking spreadsheet link in Resources # 2.03 in a new tab
     - [ ] Paste what you copied into the matching participant's cell in Column D `Transcription Link - de-identified` in the tracking sheet (Resources # 2.03)
+    - [ ] If any person (excluding the Interviewee and UXR) is being mentioned in the transcript, paste the de-identified transcript URL in Column E in the De-identified Participants List (Resource # 2.04) 
+    - [ ] If any person (excluding the interviewee and UXR) is being mentioned in the transcript, paste the de-identified transcript URL in Column G in the Participants List (Resource # 2.07)
     - [ ] In Resources # 2.11, place the link you just copied between parentheses at the end of the line with no space in between the right bracket `]` and the left parenthesis `(`, so it turns into a hyperlink
     - [ ] Choose "Update comment" in GitHub and make sure all the checkboxes above have been checked
  
