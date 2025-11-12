@@ -76,7 +76,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 
 ### Action Items
 
-####  UX lead adds the assignee to the Internship - PII's "My Drive" as a Content Manager so that they have access to internship - PII's My Drive where the recordings and transcripts with PII are stored
+####  UX lead adds the assignee to the Internship - PII's "My Drive" as a Contributor so that they have access to internship - PII's My Drive where the recordings and transcripts with PII are stored
 - [ ] UX lead accesses the Internship - PII's "My Drive"
 - [ ] Choose "Manage members", which is located towards the top right side of the browser <img width="200" alt="Screenshot 2023-08-09 at 6 09 36 PM" src="https://github.com/hackforla/internship/assets/57029070/f7cc7fbe-1b00-4ded-8b44-b10fdbccae46">
 - [ ] Enter the assignee's email address and select the role as "Content Manager"
