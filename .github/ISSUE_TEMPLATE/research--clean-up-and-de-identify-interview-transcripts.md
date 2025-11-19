@@ -269,15 +269,18 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
  
 #### Review Process
 - UXR Lead assigns another team member to conduct a peer review 
-   - [ ] Copy [the template for a peer review for cleaning up and de-identifying transcripts](https://github.com/hackforla/internship/wiki/A-Peer-Review-for-Cleaning-Up-and-De%E2%80%90identifying-Transcripts) from the wiki
+   - [ ] Go to peer review for cleaning up and de-identifying transcripts wiki page and read through to see if and how to implement the peer review process (Resources 1.06)
+   - [ ] Copy the template for a peer review for cleaning up and de-identifying transcripts from the wiki (Resources 1.06)
    - [ ] Paste the template in a comment in this issue
    - [ ] Make sure the dependency section is completed
-   - [ ] Edit the peer reviewer to include the `@` syntax so the peer reviewer gets the notification
+   - [ ] Customize the template by adding the transcript name and link in the peer review instructions
+   - [ ] Edit to include the `@` syntax  and the peer reviewer so the peer reviewer gets the notification
 - [ ] Peer reviewer discusses with the issue assignee on the changes needed
 - [ ] Review with UX Lead
 - [ ] Product sign-off
-- [ ] UXR Lead delete the .txt and all extra Google Doc transcripts that contains PII from the internship-PII drive after the de-identified transcript gets approved
 - [ ] UXR Lead or PM removes the assignee and peer reviewer from the Internship - PII's My Drive when closing the issue if they no longer need to access the PII drive.
+- [ ] UXR Lead delete the .txt and all extra Google Doc transcripts that contains PII from the internship-PII drive after either the de-identified transcript gets approved or the entire research plan's transcripts get approved.
+- [ ] After the entire research plan's transcripts get approved, UXR Lead hides columns that contains PII such as recording link and transcription link in Resources 2.03 and transcription link in Resources 2.07 since they are not needed anymore.
 
 
 ### Resources/Instructions
@@ -291,6 +294,7 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
 1.04.03 [Cleaning Up Zoom Transcriptions for Qualitative Research](https://crdpala.org/2022/10/05/cleaning-up-zoom-transcriptions-for-qualitative-research/)
 1.04.04 [Determining Best Practice for Filler Words in Captions and Transcripts](https://blogs.vcu.edu/birdlab/2020/01/09/determining-best-practice-for-filler-words-in-captions-and-transcripts/)
 1.05 [LanguageTool Chrome Extension](https://chrome.google.com/webstore/detail/grammar-checker-paraphras/oldceeleldhonbafppcapldpdifcinji)
+1.06 [Wiki and Template for Cleaning Up and De-identifying Transcripts Peer Review](https://github.com/hackforla/internship/wiki/A-Peer-Review-for-Cleaning-Up-and-De%E2%80%90identifying-Transcripts)
 
 #### Resources gathered during the completion of this issue
 2.01 [Wiki: Research Plan: RP[Replace 000]]
