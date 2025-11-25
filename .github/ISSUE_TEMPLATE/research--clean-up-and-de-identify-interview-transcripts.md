@@ -4,16 +4,18 @@ about: The process for cleaning up and de-identifying interview transcripts
 title: 'TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace
   TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF
   PARTICIPANT] [Replace PARTICIPANT NUMBER]'
-labels: 'feature: recording transcription, feature: research, milestone: missing,
-  Participant Type: missing, Research 000: missing, role: UI/UX research, size: 1pt'
+labels: 'complexity: medium, feature: recording transcription, feature: research,
+  milestone: missing, Participant Type: missing, Research 000: missing, role: UI/UX
+  research, size: 1pt'
 assignees: ''
 
 ---
 
+# Draft of template issue for cleaning up and de-identifying interview transcripts
 **name:** Research: Clean Up and De-identify Interview Transcripts  
 **about:** The process to clean up and de-identify interview transcripts  
 **title:** TWE: IS[Replace YY]: RP[Replace 000]: [Replace TYPE OF PARTICIPANT] [Replace TYPE OF INTERVIEW] Interview Recordings: Clean Up & De-identify: [Replace TYPE OF PARTICIPANT] [Replace PARTICIPANT NUMBER]
-**labels:** 'feature: recording transcription', 'feature: research', 'Participant Type: missing', 'Research 000: missing', 'size: 1pt', 'role: UI/UX research', 'milestone: missing'
+**labels:** 'feature: recording transcription', 'feature: research', 'Participant Type: missing', 'Research 000: missing', 'size: 1pt', 'role: UI/UX research', 'milestone: missing', 'complexity: medium'
 **assignees:** 
 
 ---
@@ -55,13 +57,13 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
     - [ ] Under Labels,  choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Research: RP[Replace 000]`
     - [ ] Under Labels, choose gear  ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and apply the label `Participant Type: [Replace TYPE OF PARTICIPANT]`
     - [ ] Remove the `Research 000: missing` and `Participant Type: missing` labels
-    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), choose `Repository`, and choose `TWE: Project Board`
+    - [ ] Under Projects, choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `TWE: Project Board`
     - [ ] Add the milestone: choose gear ![Screenshot 2023-01-11 at 10 50 11 AM](https://user-images.githubusercontent.com/57029070/211904252-46521281-b8f8-495d-b31f-d06e425f0096.png), and choose `Research Analysis`
     - [ ] Remove the label `milestone: missing`
 - Customize dependencies 
     - [ ] If you know of dependencies, add them below (a dependency is any issue or reason that would prevent the action items from being completed)
 - Remove this section
-    - [ ] After all the checkboxes above are complete and the issue is ready to be worked on, delete all text below the "Draft of template issue..." (top heading) and above "Overview" (heading below) -- i.e., the issue assignee will never see this part
+    - [ ] After all the checkboxes above are complete and the issue is ready to be worked on, delete all text below the "Draft of template issue..." (top heading) and above "Dependencies" (heading below) -- i.e., the issue assignee will never see this part
 
 ### Dependencies  
 - [ ] Interview recordings have been uploaded and moved into Internship - PII's "My Drive"
