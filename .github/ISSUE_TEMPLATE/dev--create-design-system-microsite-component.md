@@ -43,15 +43,19 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
 
 ### Action Items
 - [ ] Review the Microsite page mockup you will be working from (Resource 1.01)
+- [ ] Review the Material Design Kit and identify the relevant component, variants, and states (Resource 1.13)
+- [ ] Review Code Standards before starting implementation
 - [ ] Name the Branch you create [Replace with NAME OF COMPONENT]
 - [ ] Determine if any JavaScript needs to be included to style this component (see Resource 1.02 for examples of included JavaScript).  If you do need to use JS, don't forget to update the wiki page
 - [ ] Include necessary files in the `/docs` folder (Resource 1.03) and project config file `mkdocs.yml` (Resource 1.04)
-- [ ] Determine what variables are needed for this component and add them to variables.scss (Resource 1.05)
+- [ ] Determine what tokens are needed for this component
+  - [ ] Reuse existing tokens where possible
+  - [ ] Add new tokens only if necessary
 - [ ] Code Microsite component page
    - file locations
      - [ ] md file goes into the /docs folder (Resource 1.03) 
      - [ ] SASS file goes into the /docs/components/sass/components folder (Resource 1.06)
-   - [ ] Create variables in sass sheet as necessary, add color variables with name determined by HTML Color Codes (Resource 1.07, 1.08)
+   - [ ] Create tokens as necessary, reusing existing tokens where possible; add new color tokens only if required and name them using HTML Color Code conventions (Resources 1.07, 1.08)
    - [ ] Create component classes and states within the page
    - [ ] Include Files via code snippets to create the code section (see Resource 1.09 for details)
    - [ ] Add links to SASS and Markdown files below the code (see examples in Resource 1.10)
@@ -77,12 +81,13 @@ We need to create Design System [Replace with NAME OF COMPONENT] Component HTML 
 - 1.07 Variables SASS Sheet: [/docs/components/sass/abstracts/variables.sss](https://github.com/hackforla/internship-website-design-system/tree/main/docs/components/sass/abstracts/variables.scss)
 - 1.08 HTML Color Code Names: [HTMLColorCodes.com](https://htmlcolorcodes.com)
 - 1.09 WIKI: [How to Create a Design System Microsite Page using Snippets](https://github.com/hackforla/internship/wiki/How-to-Create-a-Design-System-Microsite-Page-using-Snippets)
-- 1.10 e.g., 
+- 1.10 Naming conventions: 
    - below the CSS tab, it would say CSS: https://github.com/hackforla/internship-website-design-system/blob/main/docs/components/sass/components/_[Replace with NAME OF COMPONENT].scss
    - below the HTML tab it would say HTML: https://github.com/hackforla/internship-website-design-system/blob/main/docs/[Replace with NAME OF COMPONENT].md
 - 1.11 [Connect component in Figma to GitHub Files](https://github.com/hackforla/internship/wiki/Connect-component-in-Figma-to-GitHub-Files)
 - 1.12 Original Design Issue: [Replace with LINK TO DESIGN ISSUE FROM EPIC]
-   - Microsite Epic Issue with list of design issues: #https://github.com/hackforla/internship/issues/455#issuecomment-2057437256
+- 1.13 [Material Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460/material-3-design-kit)
+-  Microsite Epic Issue with list of design issues: https://github.com/hackforla/internship/issues/455#issuecomment-2057437256
 
 #### Resources gathered during the completion of this issue
 - 2.01 MD file(s) created: [[Replace with NAME OF COMPONENT].md] - link the name to the file in the repo
