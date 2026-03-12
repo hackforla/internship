@@ -154,6 +154,8 @@ Tip: Use two windows side by side. One with the issue open and the other one wit
   - [ ] Consent plan for participants
   - [ ] Consent form/documents
   - [ ] Email/Communication to parents if participants are minor (if required)
+  - [ ] Create training materials for UXRs (if needed)
+  - [ ] Create Interviewer Feedback Form (if needed)
   - [ ] Recruitment plan for extra UXRs (if required)
   - [ ] Selection criteria for UXRs (if required)
   - [ ] Identification of recruitment channels for UXRs (required)
